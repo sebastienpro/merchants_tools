@@ -1,0 +1,4002 @@
+[
+    {
+      "dirty_name": "26312 - CITY OF ATLANTA",
+      "expected_brand": "City of Atlanta"
+    },
+    {
+      "dirty_name": "Auth: EMMAUS OXFORD,OXFORD,GBR",
+      "expected_brand": "Emmaus"
+    },
+    {
+      "dirty_name": "Bluepoint Milton Keynes GB",
+      "expected_brand": "Bluepoint"
+    },
+    {
+      "dirty_name": "BNP PARIS 20 FR",
+      "expected_brand": "BNP"
+    },
+    {
+      "dirty_name": "CEDEO MARSEILLE FR",
+      "expected_brand": "Cedeo"
+    },
+    {
+      "dirty_name": "DINA 10 PARIS 10 FR",
+      "expected_brand": "Dina 10"
+    },
+    {
+      "dirty_name": "DUOLINGO ENGLISH TEST PITTSBURGH US",
+      "expected_brand": "Duolingo"
+    },
+    {
+      "dirty_name": "Europa Park GmbH u CO Rust DE",
+      "expected_brand": "Europa Park"
+    },
+    {
+      "dirty_name": "GOURMET PICPUS PARIS FR",
+      "expected_brand": "Au Gourmet de Picpus"
+    },
+    {
+      "dirty_name": "GRANGER & CO. LONDON  N1C GB",
+      "expected_brand": "Granger & Co."
+    },
+    {
+      "dirty_name": "HALLES DU FBG PARIS FR",
+      "expected_brand": "Halles du Faubourg"
+    },
+    {
+      "dirty_name": "HARRODS HEATHROW T2 GBP GB",
+      "expected_brand": "Harrods"
+    },
+    {
+      "dirty_name": "HORETO PARIS PUTEAUX FR",
+      "expected_brand": "Horeto"
+    },
+    {
+      "dirty_name": "HOTEL DU PARC DIJON FR",
+      "expected_brand": "Hôtel du Parc de la Colombière"
+    },
+    {
+      "dirty_name": "HOTEL DUNANT CASTIGLIONE D IT",
+      "expected_brand": "JHD Dunant Hotel"
+    },
+    {
+      "dirty_name": "IZ *VERISURE SERVICES Brentford GB",
+      "expected_brand": "Verisure"
+    },
+    {
+      "dirty_name": "IZ *YO! SUSHI UK LTD   London        GBR",
+      "expected_brand": "YO! Sushi"
+    },
+    {
+      "dirty_name": "J B FOODSTORE LTD      LONDON  E1 6  GBR",
+      "expected_brand": "JB Food Ltd"
+    },
+    {
+      "dirty_name": "J D                    LONDON        GBR",
+      "expected_brand": "JD Sports"
+    },
+    {
+      "dirty_name": "JACK THE CLIPPER BRICK LONDON  E1 6  GBR",
+      "expected_brand": "Jack The Clipper"
+    },
+    {
+      "dirty_name": "JACK'S STORES          MERSEYSIDE    GBR",
+      "expected_brand": "Jack's"
+    },
+    {
+      "dirty_name": "JACKTHECLIPPER         +441606277565 GBR",
+      "expected_brand": "Jack The Clipper"
+    },
+    {
+      "dirty_name": "JADLODAJNIA HADES      ZARY          POL",
+      "expected_brand": "Jadłodajnia Hades"
+    },
+    {
+      "dirty_name": "JAFFA INTERNATIONAL    SHEFFIELD     GBR",
+      "expected_brand": "Jafa International Store"
+    },
+    {
+      "dirty_name": "JAI AMBIKA NEWS        LONDON        GBR",
+      "expected_brand": "Jai Ambika News"
+    },
+    {
+      "dirty_name": "JAI CONVENIENCE STORE  STIRLING      GBR",
+      "expected_brand": "Jai Convenience Store"
+    },
+    {
+      "dirty_name": "JAMIL MANGAL TRAVEL    UK            GBR",
+      "expected_brand": "Jamil Mangal Travel & Tours"
+    },
+    {
+      "dirty_name": "JANITH FRIED CHICKEN     UNITED KING GBR",
+      "expected_brand": "JKJ Janith Fried Chicken"
+    },
+    {
+      "dirty_name": "JAS BOOZE AND NEWS     BIRMINGHAM    GBR",
+      "expected_brand": "Jas Booze & News"
+    },
+    {
+      "dirty_name": "JAS FOOD & WINE        SOUTHALL      GBR",
+      "expected_brand": "Jas Food & Wine"
+    },
+    {
+      "dirty_name": "JASH NEWS              LONDON        GBR",
+      "expected_brand": "Jash News"
+    },
+    {
+      "dirty_name": "JD                     BRADFORD      GBR",
+      "expected_brand": "JD Sports"
+    },
+    {
+      "dirty_name": "JD                     GLASGOW       GBR",
+      "expected_brand": "JD Sports"
+    },
+    {
+      "dirty_name": "Jio Mart",
+      "expected_brand": "JioMart"
+    },
+    {
+      "dirty_name": "JP MORGAN              UK            GBR",
+      "expected_brand": "JP Morgan"
+    },
+    {
+      "dirty_name": "JS FOOD & WINE         WEMBLEY       GBR",
+      "expected_brand": "JS Food & Wine"
+    },
+    {
+      "dirty_name": "JS FOOD AND WINE       London        GBR",
+      "expected_brand": "JS Food & Wine"
+    },
+    {
+      "dirty_name": "K & M SUPERMARKET      LONDON        GBR",
+      "expected_brand": "K&M Supermarket"
+    },
+    {
+      "dirty_name": "K & P GREENFORD SUPERM GREENFORD     GBR",
+      "expected_brand": "K&P Greenford Supermarket"
+    },
+    {
+      "dirty_name": "K AND K BUTCHERS       LONDON        GBR",
+      "expected_brand": "K&K Butchers & Grocers"
+    },
+    {
+      "dirty_name": "K AND K FOOD STORE     LONDON        GBR",
+      "expected_brand": "K&K Food Store"
+    },
+    {
+      "dirty_name": "K PARSONS BUTCHERS     LONDON        GBR",
+      "expected_brand": "K Parsons Butchers"
+    },
+    {
+      "dirty_name": "KAFOUROS GERASIMOS     SANTORINI     GRC",
+      "expected_brand": "Kafouros Hotel"
+    },
+    {
+      "dirty_name": "KAMSONS PHARMACY       BRIGHTON      GBR",
+      "expected_brand": "Kamsons Pharmacy"
+    },
+    {
+      "dirty_name": "KANI MINI MARKET       NOTTINGHAM    GBR",
+      "expected_brand": "Kana Mini Market"
+    },
+    {
+      "dirty_name": "Kapadokya Food Centre  London        GBR",
+      "expected_brand": "Kapadokya Food Centre"
+    },
+    {
+      "dirty_name": "KARAOKE BOX LTD        LONDON EC1A   GBR",
+      "expected_brand": "Karaoke Box"
+    },
+    {
+      "dirty_name": "5609 DMART             BANGALORE    KAIN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "5ASEC_PARIS17",
+      "expected_brand": "5 A Sec"
+    },
+    {
+      "dirty_name": "AMAZON SELLER SERVICES   MUMBAI       IN",
+      "expected_brand": "Amazon"
+    },
+    {
+      "dirty_name": "ANNAPURNA UPHAR GRUHA",
+      "expected_brand": "Annapurna Uphar Gruha"
+    },
+    {
+      "dirty_name": "Auth: BALANS VICTORIA,LONDON,GBR",
+      "expected_brand": "Balans"
+    },
+    {
+      "dirty_name": "Auth: BAR PARRILLA NINO,MADRID,ESP",
+      "expected_brand": "La Parrilla de Nino"
+    },
+    {
+      "dirty_name": "Auth: CADENHEADS WHISKY SHOP,LONDON,GBR",
+      "expected_brand": "Cadenhead's"
+    },
+    {
+      "dirty_name": "Auth: CHEVRON 0090087,SAN FRANCISCO,USA",
+      "expected_brand": "Chevron"
+    },
+    {
+      "dirty_name": "Auth: CHEVRON 0212985,COLLEGE PARK,USA",
+      "expected_brand": "Chevron"
+    },
+    {
+      "dirty_name": "Auth: CHEVRON 0302521,ATLANTA,USA",
+      "expected_brand": "Chevron"
+    },
+    {
+      "dirty_name": "Autoroute A 13",
+      "expected_brand": "Autoroute A13"
+    },
+    {
+      "dirty_name": "Autoroute Du Sud",
+      "expected_brand": "Autoroute A6"
+    },
+    {
+      "dirty_name": "AVENUE SUPERMARTS LTD-DBANGALORE    KAIN",
+      "expected_brand": "Avenue Supermarts"
+    },
+    {
+      "dirty_name": "AVENUE SUPERMARTS LTD-DHYDERABAD    APIN",
+      "expected_brand": "Avenue Supermarts"
+    },
+    {
+      "dirty_name": "Bankhaus August Lenz A, Berlin",
+      "expected_brand": "Bankhaus August Lenz"
+    },
+    {
+      "dirty_name": "Bankhaus August Lenz A, Bielefeld",
+      "expected_brand": "Bankhaus August Lenz"
+    },
+    {
+      "dirty_name": "Bankhaus August Lenz A, D.sseldorf",
+      "expected_brand": "Bankhaus August Lenz"
+    },
+    {
+      "dirty_name": "Bankhaus August Lenz A, Frankfurt",
+      "expected_brand": "Bankhaus August Lenz"
+    },
+    {
+      "dirty_name": "Basic Fit Basso Cambo",
+      "expected_brand": "Basic Fit"
+    },
+    {
+      "dirty_name": "Basic-fit Barakaldo",
+      "expected_brand": "Basic Fit"
+    },
+    {
+      "dirty_name": "Basic-fit Boreau",
+      "expected_brand": "Basic Fit"
+    },
+    {
+      "dirty_name": "BASSEIN PETROL",
+      "expected_brand": "Bassein Petrol Supply Co."
+    },
+    {
+      "dirty_name": "BEANS THE GREEN HOUSE",
+      "expected_brand": "Beans The Greenhouse"
+    },
+    {
+      "dirty_name": "BEEHIVE SBARRO BLACKBURN GB",
+      "expected_brand": "Sbarro"
+    },
+    {
+      "dirty_name": "BEHTAR SUPERMARKET CHI BANGALORE IN",
+      "expected_brand": "Behtar Super Market"
+    },
+    {
+      "dirty_name": "BEHTAR SUPERMARKET N BANGALORE IN",
+      "expected_brand": "Behtar Super Market"
+    },
+    {
+      "dirty_name": "BELDARE PATIL            PUNE         IN",
+      "expected_brand": "Beldare Patil Petroleum"
+    },
+    {
+      "dirty_name": "Belfast City Airport L",
+      "expected_brand": "George Best Belfast City Airport"
+    },
+    {
+      "dirty_name": "Betclic 5, Rue",
+      "expected_brand": "Betclic"
+    },
+    {
+      "dirty_name": "Bh Partners",
+      "expected_brand": "Bh Partners"
+    },
+    {
+      "dirty_name": "BHARAT PETROL DEPOT    PUNE         MHIN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BHARAT SERVICE,        HYDERABAD    TEIN",
+      "expected_brand": "Bharat Service"
+    },
+    {
+      "dirty_name": "BHATTAS FOODS PRIVATE BANGALORE IN",
+      "expected_brand": "Bhattas Foods Private Limited"
+    },
+    {
+      "dirty_name": "BIG BAZAAR               NOIDA        IN",
+      "expected_brand": "Big Bazaar"
+    },
+    {
+      "dirty_name": "BIG BAZAAR               PUNE         IN",
+      "expected_brand": "Big Bazaar"
+    },
+    {
+      "dirty_name": "BIG BAZAAR .             NEW DELHI    IN",
+      "expected_brand": "Big Bazaar"
+    },
+    {
+      "dirty_name": "BIG BAZAAR'              BANGALORE    IN",
+      "expected_brand": "Big Bazaar"
+    },
+    {
+      "dirty_name": "BIG C MOBILES          HYDERABAD    APIN",
+      "expected_brand": "Big C Mobiles"
+    },
+    {
+      "dirty_name": "BIG C MOBILES          TADIPATRI    APIN",
+      "expected_brand": "Big C Mobiles"
+    },
+    {
+      "dirty_name": "Bismillah Tiffin Centre",
+      "expected_brand": "Bismillah Tiffin Center"
+    },
+    {
+      "dirty_name": "Bnp",
+      "expected_brand": "BNP Paribas"
+    },
+    {
+      "dirty_name": "BP COCO KANDIVALI",
+      "expected_brand": "BP Kandivali Coco"
+    },
+    {
+      "dirty_name": "BP COCO KANDIVALI        MUMBAI       IN",
+      "expected_brand": "BP Kandivali Coco"
+    },
+    {
+      "dirty_name": "BPCL EMMAR FUEL PARK     BANGALORE    IN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL M R ENTERPRISES   BANGALORE    KAIN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL SREE INDIA ENTERP CHENNAI      TMIN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL SRI KRISHNA ENTERPTAMBARAM     TNIN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL SRI LAKSHMI SER   BANGALORE    KAIN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL SRI MARUTHI SERVICBANGALORE    KAIN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL SRI VIDHUR AGENCIEKANCHIPURAM  TNIN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL YASHODA FILLING S",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BREWDOG.COM",
+      "expected_brand": "Brewdog"
+    },
+    {
+      "dirty_name": "Bristol Airport Limite",
+      "expected_brand": "Bristol Airport"
+    },
+    {
+      "dirty_name": "Britannia Parking Serv",
+      "expected_brand": "Britiannia Parking"
+    },
+    {
+      "dirty_name": "CAFE COFFEE DAY          HPCL NARSAPU IN",
+      "expected_brand": "Cafe Coffee Day"
+    },
+    {
+      "dirty_name": "Cafe Coffee Day        Chikmagalur  KAIN",
+      "expected_brand": "Cafe Coffee Day"
+    },
+    {
+      "dirty_name": "CHENNAI METRO RAIL COR   CHENNAI      IN",
+      "expected_brand": "Chennai Metro Rail"
+    },
+    {
+      "dirty_name": "Cherwell Dc Car Park",
+      "expected_brand": "Cherwell District Council"
+    },
+    {
+      "dirty_name": "CIC NOISY LE GRAND",
+      "expected_brand": "CIC"
+    },
+    {
+      "dirty_name": "CIC SAINT AMAND LES",
+      "expected_brand": "CIC"
+    },
+    {
+      "dirty_name": "CINEMA DE CAHORS",
+      "expected_brand": "Cinéma Le Grand Palais"
+    },
+    {
+      "dirty_name": "Clinique Fontve",
+      "expected_brand": "Clinique Fontvert"
+    },
+    {
+      "dirty_name": "Coca Cola Ni",
+      "expected_brand": "Coca Cola"
+    },
+    {
+      "dirty_name": "Coca-cola European Par",
+      "expected_brand": "Coca Cola"
+    },
+    {
+      "dirty_name": "COMMUNE D IVRY SUR SEI IVRY SUR SEIN FR",
+      "expected_brand": "Commune d'Ivry sur Seine"
+    },
+    {
+      "dirty_name": "COMMUNE DE ISIGNY SUR",
+      "expected_brand": "Commune d'Isigny-sur-Mer"
+    },
+    {
+      "dirty_name": "COMMUNE DE LYON LYON CEDEX 01 FR",
+      "expected_brand": "Commune de Lyon"
+    },
+    {
+      "dirty_name": "COMMUNE DE TOULON",
+      "expected_brand": "Commune de Toulon"
+    },
+    {
+      "dirty_name": "D MART                   AMRAVATI     IN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "DART-CHARGE",
+      "expected_brand": "Dart Charge"
+    },
+    {
+      "dirty_name": "Deutschebank",
+      "expected_brand": "Deutschebank"
+    },
+    {
+      "dirty_name": "DMART AVENUE             AURANGABAD   IN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "DMART AVENUE             THANE        IN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "DMART AVENUE.            GHAZIABAD    IN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "DMART Baner            PUNE         MHIN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "DMART Nahar            MUMBAI       MHIN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "DMART Nanded           NANDED       MHIN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "DMART Pune Satara      PUNE         MHIN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "DMART RC Puram         MEDAK        APIN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "DMART Warangal         WARANGAL     APIN",
+      "expected_brand": "DMart"
+    },
+    {
+      "dirty_name": "DOCTOLIB* DR JEAN CLAU",
+      "expected_brand": "Doctolib"
+    },
+    {
+      "dirty_name": "DONATE.JW.ORG-CCTG  VIA DEL",
+      "expected_brand": "JW.ORG"
+    },
+    {
+      "dirty_name": "DTTDC                    EAST DELHI   IN",
+      "expected_brand": "Delhi Tourism"
+    },
+    {
+      "dirty_name": "DTTDC                    WEST DELHI   IN",
+      "expected_brand": "Delhi Tourism"
+    },
+    {
+      "dirty_name": "Edinburgh Trams Limite",
+      "expected_brand": "Edinburgh Trams"
+    },
+    {
+      "dirty_name": "ESSAR PETROL PUMP        BANGALORE    IN",
+      "expected_brand": "Essar Petrol Pump"
+    },
+    {
+      "dirty_name": "Euro Car Parks Limited",
+      "expected_brand": "Euro Car Parks"
+    },
+    {
+      "dirty_name": "Euro Car Parks Ltd.",
+      "expected_brand": "Euro Car Parks"
+    },
+    {
+      "dirty_name": "Euro Tunnel 5",
+      "expected_brand": "Eurotunnel"
+    },
+    {
+      "dirty_name": "Eurotunnel 13",
+      "expected_brand": "Eurotunnel"
+    },
+    {
+      "dirty_name": "Fitness Zone Gym",
+      "expected_brand": "Fitness Zone"
+    },
+    {
+      "dirty_name": "Free Mobile",
+      "expected_brand": "Free Mobile"
+    },
+    {
+      "dirty_name": "GIFI VILLENEUVE",
+      "expected_brand": "Gifi"
+    },
+    {
+      "dirty_name": "Gizmo                  Pune         MHIN",
+      "expected_brand": "Gizmo"
+    },
+    {
+      "dirty_name": "Glasgow T1 Dom Ar 1",
+      "expected_brand": "Glasgow Airport"
+    },
+    {
+      "dirty_name": "GREEN TRENDS LIMELITE  HYDERABAD    APIN",
+      "expected_brand": "Green Trends Unisex Hair & Style Salon"
+    },
+    {
+      "dirty_name": "GREEN TRENDS LIMELITE  NELLORE      APIN",
+      "expected_brand": "Green Trends Unisex Hair & Style Salon"
+    },
+    {
+      "dirty_name": "GREEN TRENDS LIMELITE  TUMKUR       KAIN",
+      "expected_brand": "Green Trends Unisex Hair & Style Salon"
+    },
+    {
+      "dirty_name": "GREEN TRENDS-LIMELITE  CHENNAI      TNIN",
+      "expected_brand": "Green Trends Unisex Hair & Style Salon"
+    },
+    {
+      "dirty_name": "Grofers                  GURGAON      IN",
+      "expected_brand": "Grofers"
+    },
+    {
+      "dirty_name": "GROFERS COM",
+      "expected_brand": "Grofers"
+    },
+    {
+      "dirty_name": "GROUP-UP.CO.UK",
+      "expected_brand": "Group Up"
+    },
+    {
+      "dirty_name": "Gupta Provisan Store",
+      "expected_brand": "Gupta Provisan Store"
+    },
+    {
+      "dirty_name": "Gupta Store",
+      "expected_brand": "Gupta Provisan Store"
+    },
+    {
+      "dirty_name": "Hering Sanikonzept Gmb",
+      "expected_brand": "Hering Sanikonzept"
+    },
+    {
+      "dirty_name": "GURUNANAK FILLING STATI  HYDERABAD    IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HELLO MOBILE,            NAVI MUMBAI  IN",
+      "expected_brand": "Hello Mobile"
+    },
+    {
+      "dirty_name": "HELLO MOBILES PRIVATE    NALGONDA     IN",
+      "expected_brand": "Hello Mobile"
+    },
+    {
+      "dirty_name": "HENNES N MAURITZ       BANGALORE    KAIN",
+      "expected_brand": "H&M"
+    },
+    {
+      "dirty_name": "HENNES N MAURITZ       NOIDA        UPIN",
+      "expected_brand": "H&M"
+    },
+    {
+      "dirty_name": "HIGHWAY 9.               HYDERABAD    IN",
+      "expected_brand": "National Highway 9"
+    },
+    {
+      "dirty_name": "HIGHWAY AUTO NEEDS HP    BANGALORE    IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HILTON GARDEN INN NEW  NEW          DLIN",
+      "expected_brand": "Hilton"
+    },
+    {
+      "dirty_name": "HINDUSTAN PETROLEUM CO BANGALORE    KAIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HINDUSTAN..,             BANGALORE    IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HOUSES OF SPIRIT 4     BANGALORE    KAIN",
+      "expected_brand": "House of Spirits 4"
+    },
+    {
+      "dirty_name": "HP AUTO SERVICE CENTRE   BANGALORE    IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HP AUTO SERVICE.         BANGALORE    IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HP RG FUEL STATION.      KOLAR        IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL   EMPIRE SERVICE    HYDERABAD    IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL ANJANADRI FUEL ST   BANGALORE    IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL ARUNA BROS          CHE-CHENNAI  IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL AUTO CARE CENTRE BMUMBAI       MHIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL CBW ENTERPRISE    BANGALORE    KAIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL COMCO SIPCOT        TAMBARAM     IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL GAIKWAD SERVICE S   PUNE         IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL HP AUTO CARE",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL HP AUTO CARE CE 13CHENNAI      TNIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL KANNIKA ENTERPRIS MADURAI      TNIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL KAVUMKAL AUTO FUL CHANGANACHERRKLIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL KRISHNA REDDY NAG HYDERABAD    ANIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL M G AUTOMOBILES   BELLARY      KAIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL MAGAR FUEL STATIO PUNE         MAIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL PDN AGENCY        CHENGALPATTU TNIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL SAI RATNA FILLING   ONGOLE       IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL SAI SRINIVASA FIL",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL SAI SRINIVASA FIL SATTUPALLI   ANIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL SARAN AGENCIES    TAMBARAM     TNIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL SHREE JAGADGURU P",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL SREE SSV PETROLEU HYDERABAD    ANIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL SRI GANANATH SERVI  MYSORE       IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL SRI KRISHNA AGENCYTAMBARAM     TNIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL SRI RAGHAVENDRA FIADILABAD     APIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL SRI SANVI HP FUEL BANGALORE    KAIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL T   T ENTERPRISES HYDERABAD    ANIN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "Hvb, Am Gewerbebogen 3",
+      "expected_brand": "HypoVereinsbank"
+    },
+    {
+      "dirty_name": "Hvb, Bahnhofstrasse 11",
+      "expected_brand": "HypoVereinsbank"
+    },
+    {
+      "dirty_name": "Hvb, Berliner Strasse",
+      "expected_brand": "HypoVereinsbank"
+    },
+    {
+      "dirty_name": "Hvb, Kolpingstrasse 4-",
+      "expected_brand": "HypoVereinsbank"
+    },
+    {
+      "dirty_name": "INDIAN OIL               BANGALORE    IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "INDIAN OIL               JAIPUR       IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "INDIAN OIL               VIJAYAWADA   IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "INDIAN OIL ,",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "INDIAN OIL CORPORATION   CHENNAI      IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "INDIAN OIL MAHAMHERU E CHENNAI      TNIN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "INDIAN OIL PETROL PUMP   BANGALORE    IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "Indigo Park Services L",
+      "expected_brand": "Indigo Park"
+    },
+    {
+      "dirty_name": "IOCL                     JAIPUR       IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL BPR BROTHERS KSK    HYDERABAD    IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL COCO HI TECH CITY",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL COCO HI TECH CITY",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL G MUTHYAM REDDY F   HYDERABAD    IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL MAHASHAKTI ENTERP BANGALORE    KAIN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL MAHASHAKTI ENTERP BANGALORE IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL PRICOL FUEL         COIMBATORE   IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL PUMP                CHANDIGARH   IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL SATYA SAI FILLING MEDCHAL      APIN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL SHREE DEVI SERVI    BANGARPET    IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "IOCL SRI SATHYA FILLING SHYDERABAD    IN",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "KARL LAGERFELD         MILANO        ITA",
+      "expected_brand": "Karl Lagerfeld"
+    },
+    {
+      "dirty_name": "KFC HABITAL MALLMA MYS   MYSORE       IN",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "KFC RT NAGAR HS BGL      BANGALORE    IN",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "KFC SAPPHIRE CITI CENT   CHENNAI      IN",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "KFC SAPPHIRE INORBIT M   PUNE         IN",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "KFC WORLD TRADE          JAIPUR       IN",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "KFC-WESTON SUPER MARE  SOMERSET      GBR",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "KIKO                   READING       GBR",
+      "expected_brand": "Kiko"
+    },
+    {
+      "dirty_name": "KINGDOM OF SWEETS      LONDON        GBR",
+      "expected_brand": "Kingdom Of Sweets"
+    },
+    {
+      "dirty_name": "Kingdom of Sweets      Wembley       GBR",
+      "expected_brand": "Kingdom Of Sweets"
+    },
+    {
+      "dirty_name": "KINGS ARMS OXFORD ST   LONDON        GBR",
+      "expected_brand": "Kings Arms"
+    },
+    {
+      "dirty_name": "KINGS BULL             ESSEX UNITED  GBR",
+      "expected_brand": "Kings Bull"
+    },
+    {
+      "dirty_name": "KINGS COLLEGE HOSPITAL LONDON        GBR",
+      "expected_brand": "King's College Hospital"
+    },
+    {
+      "dirty_name": "Klarna                 London        GBR",
+      "expected_brand": "Klarna"
+    },
+    {
+      "dirty_name": "Klarna                Sveav?gen 46Stockholm    11134        SWE",
+      "expected_brand": "Sveavägen"
+    },
+    {
+      "dirty_name": "Klarna *bemz com Stockholm SE",
+      "expected_brand": "Bemz"
+    },
+    {
+      "dirty_name": "Klarna*&Other Stories  LONDON        GBR",
+      "expected_brand": "&Other Stories"
+    },
+    {
+      "dirty_name": "LA MIE D OR",
+      "expected_brand": "La Mie d'Or"
+    },
+    {
+      "dirty_name": "LAYBUY UK* EBAY        +44000000000  GBR",
+      "expected_brand": "eBay"
+    },
+    {
+      "dirty_name": "LAYBUY UK* SIZE        +44000000000  GBR",
+      "expected_brand": "size?"
+    },
+    {
+      "dirty_name": "LAYBUY UK* SPORTSDIREC +44000000000  GBR",
+      "expected_brand": "Sports Direct"
+    },
+    {
+      "dirty_name": "LAZ-PAY.COM            +34828128752  ESP",
+      "expected_brand": "Lazy Pay"
+    },
+    {
+      "dirty_name": "LAZIOMAR SPA           PONZA         ITA",
+      "expected_brand": "Laziomar"
+    },
+    {
+      "dirty_name": "LE DUPLEX PARIS FR",
+      "expected_brand": "Le Duplex"
+    },
+    {
+      "dirty_name": "LEEDS CC RINGO PARKING LEEDS         GBR",
+      "expected_brand": "RingGo"
+    },
+    {
+      "dirty_name": "LEGO Store Stratford   London        GBR",
+      "expected_brand": "The Lego Store"
+    },
+    {
+      "dirty_name": "LEVI S!                CHANDIGARH   PUIN",
+      "expected_brand": "Levis"
+    },
+    {
+      "dirty_name": "LINKEDIN SG PTE. LTD.  SG            SGP",
+      "expected_brand": "LinkedIn"
+    },
+    {
+      "dirty_name": "Liverpool Airport",
+      "expected_brand": "Liverpool Airport"
+    },
+    {
+      "dirty_name": "LIVERPOOL CITY COUNCIL BROWNLOW HILL GBR",
+      "expected_brand": "Liverpool City Council"
+    },
+    {
+      "dirty_name": "LIVERPOOL CITY COUNCIL LIVERPOOL     GBR",
+      "expected_brand": "Liverpool City Council"
+    },
+    {
+      "dirty_name": "Lne Railway Edb Sst",
+      "expected_brand": "London North Easter Railway"
+    },
+    {
+      "dirty_name": "London Borough Of Hamm",
+      "expected_brand": "London Borough of Hammersmith and Fulham"
+    },
+    {
+      "dirty_name": "MAC DO TERTIO SC1",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MADURA FASHION AND LIF   SECUNDERABAD IN",
+      "expected_brand": "Madura Fashion & Lifestyle"
+    },
+    {
+      "dirty_name": "MADURA FASHION AND LIF   SURYAPET     IN",
+      "expected_brand": "Madura Fashion & Lifestyle"
+    },
+    {
+      "dirty_name": "MADURA FASHION AND LIF CHENNAI      TNIN",
+      "expected_brand": "Madura Fashion & Lifestyle"
+    },
+    {
+      "dirty_name": "MADURA GARMENTS          SUNDARGARH   IN",
+      "expected_brand": "Madura Garments"
+    },
+    {
+      "dirty_name": "MADURA GARMENTS        PIMPRI       MHIN",
+      "expected_brand": "Madura Garments"
+    },
+    {
+      "dirty_name": "MAIRIE DE NICE NICE FR",
+      "expected_brand": "Mairie de Nice"
+    },
+    {
+      "dirty_name": "MAXICOFFEE",
+      "expected_brand": "MaxiCoffee"
+    },
+    {
+      "dirty_name": "MAYURI BAR AND RESTAURABANGALORE    KAIN",
+      "expected_brand": "Mayuri Bar & Kitchen"
+    },
+    {
+      "dirty_name": "MAYURI BAR AND RESTAURANTBANGALORE    IN",
+      "expected_brand": "Mayuri Bar & Kitchen"
+    },
+    {
+      "dirty_name": "MC DONALDS               AHMEDABAD    IN",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MC DONALDS,              KAKINADA     IN",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MC DONALDS.              KANCHIPURAM  IN",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MCB BANK PAKISTAN      LAHORE        PAK",
+      "expected_brand": "MCB Bank"
+    },
+    {
+      "dirty_name": "MERCURY FUEL PARK",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "MERCURY FUEL PARK        BANGALORE    IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "Metro Barcelona",
+      "expected_brand": "Transports Metropolitans de Barcelona"
+    },
+    {
+      "dirty_name": "Metro De Madrid, S.a.",
+      "expected_brand": "Metro de Madrid"
+    },
+    {
+      "dirty_name": "Metro De Sevilla",
+      "expected_brand": "Metro de Sevilla"
+    },
+    {
+      "dirty_name": "ONE97 COMMUNICATION LTD",
+      "expected_brand": "One97"
+    },
+    {
+      "dirty_name": "ONE97 COMMUNICATION LTDBANGALORE    KAIN",
+      "expected_brand": "One97"
+    },
+    {
+      "dirty_name": "ONE97 COMMUNICATION LTDPUNE         MHIN",
+      "expected_brand": "One97"
+    },
+    {
+      "dirty_name": "ONE97 COMMUNICATION LTDVELLORE      TNIN",
+      "expected_brand": "One97"
+    },
+    {
+      "dirty_name": "Paddy Power",
+      "expected_brand": "Paddy Power"
+    },
+    {
+      "dirty_name": "Parcel2go.com Ltd",
+      "expected_brand": "Parcel2Go"
+    },
+    {
+      "dirty_name": "PATEL PETROLEUM",
+      "expected_brand": "Patel Petroleum"
+    },
+    {
+      "dirty_name": "PATEL SERVICE STATION    BANGALORE    IN",
+      "expected_brand": "Patel Petroleum"
+    },
+    {
+      "dirty_name": "PATHE CONVENTION",
+      "expected_brand": "Cinéma Pathé"
+    },
+    {
+      "dirty_name": "PATHE LA VALETTE",
+      "expected_brand": "Cinéma Pathé"
+    },
+    {
+      "dirty_name": "Pathe Villette",
+      "expected_brand": "Cinéma Pathé"
+    },
+    {
+      "dirty_name": "PATIN. VEGAPOLIS",
+      "expected_brand": "Patinoire Vegapolis"
+    },
+    {
+      "dirty_name": "Paytm Cylinder Booking",
+      "expected_brand": "PayTM"
+    },
+    {
+      "dirty_name": "PayTm Mobile Solutions",
+      "expected_brand": "PayTM"
+    },
+    {
+      "dirty_name": "R G Service Station IOCL",
+      "expected_brand": "IndianOil"
+    },
+    {
+      "dirty_name": "Ratp",
+      "expected_brand": "RATP"
+    },
+    {
+      "dirty_name": "RELIANCE               BANGALORE    KAIN",
+      "expected_brand": "Reliance Retail"
+    },
+    {
+      "dirty_name": "RELIANCE BP MOBILITY L ANANTPUR     APIN",
+      "expected_brand": "Jio-BP"
+    },
+    {
+      "dirty_name": "RELIANCE BP MOBILITY L INDORE       MPIN",
+      "expected_brand": "Jio-BP"
+    },
+    {
+      "dirty_name": "RELIANCE BP MOBILITY L NALGONDA     TLIN",
+      "expected_brand": "Jio-BP"
+    },
+    {
+      "dirty_name": "RELIANCE DIGITAL,      BANGALORE    KAIN",
+      "expected_brand": "Reliance Digital"
+    },
+    {
+      "dirty_name": "RELIANCE DIGITAL.        THANE        IN",
+      "expected_brand": "Reliance Digital"
+    },
+    {
+      "dirty_name": "RELIANCE FRESH         JAMSHEDPUR   JHIN",
+      "expected_brand": "Reliance Fresh"
+    },
+    {
+      "dirty_name": "RELIANCE GENERAL INSURAMUMBAI       MHIN",
+      "expected_brand": "Reliance General Insurance"
+    },
+    {
+      "dirty_name": "RELIANCE SMART         BANGALORE    KAIN",
+      "expected_brand": "Reliance Smart"
+    },
+    {
+      "dirty_name": "RELIANCE SMART         MUMBAI       MHIN",
+      "expected_brand": "Reliance Smart"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS          DELHI        IN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS          PATNA        IN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS        AMALAPURAM   APIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS        CHAPRA       BRIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS        GOPALGANJ    BRIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS        KANNUR       KLIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS        KHANDWA      MPIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS        MADUGIR      KAIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS        PALAMNER     APIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS        PATNA        BRIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS        PONDICHERRY  TNIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS        SONEPUR      ORIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "RELIANCE TRENDS.       CHANDRAPUR   MAIN",
+      "expected_brand": "Reliance Trends"
+    },
+    {
+      "dirty_name": "Royal Borough Of Winds",
+      "expected_brand": "Royal Borough of Windsor and Maidenhead"
+    },
+    {
+      "dirty_name": "Rtm",
+      "expected_brand": "RTM"
+    },
+    {
+      "dirty_name": "RTM MARSEILLE CED FR",
+      "expected_brand": "RTM"
+    },
+    {
+      "dirty_name": "SUPERMERCATO ASPIAG SE VIALE D",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO ASPIAG SE VIALE R",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO BASCOM S. VIA GIU",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO C.A.S.A.L VIA PRE",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO CIVE S.P. SS DEI",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO D.S. S CONTRAD",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO EMME PIU VIA TIB",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO FRATELLI CONTRAD",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO FRATELLI VIA SEB",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO G.G.M. SR CONTRAD",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO GDM S.R.L VIA MAS",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO GRUPPO AL VIA POL",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO IPER AREN CONTRAD",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO LANDO  SS ROME",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO LANDO CA C.SO ST",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO LANDO VI VIA MAN",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO PALERMO R VIA CRO",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO PALERMO R VIA ING",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO PRIMO PRE VIA PAP",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO SI.D.I. P VIA IMP",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO SI.D.I. P VIA ROM",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO SI.D.I. P VIA STA",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO SPAZIO CO VIA F.L",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO SPESA INT VIALE D",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO SUPERMERC VIA DEL",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "SUPERMERCATO TUKORY SU VIA CES",
+      "expected_brand": "Supermercato"
+    },
+    {
+      "dirty_name": "Tfgm.com/charges",
+      "expected_brand": "Transport for Greater Manchester"
+    },
+    {
+      "dirty_name": "WWW GROFERS COM          1243054000   IN",
+      "expected_brand": "Grofers"
+    },
+    {
+      "dirty_name": "WWW LACOSTE IN         GURGAON      HRIN",
+      "expected_brand": "Lacoste"
+    },
+    {
+      "dirty_name": "www.anyvan.com",
+      "expected_brand": "Anyvan.com"
+    },
+    {
+      "dirty_name": "WWW.DOCTOR-4-U.CO.UK",
+      "expected_brand": "Doctor-4-U"
+    },
+    {
+      "dirty_name": "WWW.GENIALLOYD.IT VIALE M",
+      "expected_brand": "Allianz Direct"
+    },
+    {
+      "dirty_name": "WWW.GOOUTDOORS.CO.UK",
+      "expected_brand": "GO Outdoors"
+    },
+    {
+      "dirty_name": "Www.gosportferry.co.uk",
+      "expected_brand": "Gosport Ferry"
+    },
+    {
+      "dirty_name": "www.Gousto.co.uk",
+      "expected_brand": "Gousto"
+    },
+    {
+      "dirty_name": "WWW.HOLLANDANDBARR",
+      "expected_brand": "Holland & Barrett"
+    },
+    {
+      "dirty_name": "WWW.IRCTC.CO.IN        DELHI        DLIN",
+      "expected_brand": "IRCTC"
+    },
+    {
+      "dirty_name": "WWW.IRENMERCATO.IT  VIA SAN",
+      "expected_brand": "Iren"
+    },
+    {
+      "dirty_name": "WWW.JACAMO.CO.UK",
+      "expected_brand": "Jacamo"
+    },
+    {
+      "dirty_name": "WWW.JACAMO.CO.UK",
+      "expected_brand": "Jacamo"
+    },
+    {
+      "dirty_name": "WWW.JDWILLIAMS.CO.UK",
+      "expected_brand": "JD Williams"
+    },
+    {
+      "dirty_name": "WWW.KYBOTECH.CO.UK",
+      "expected_brand": "Kybotech"
+    },
+    {
+      "dirty_name": "WWW.NAKEDWINES.COM",
+      "expected_brand": "Naked Wines"
+    },
+    {
+      "dirty_name": "WWW.NASTYGAL.COM",
+      "expected_brand": "Nastygal"
+    },
+    {
+      "dirty_name": "WWW.PACTCOFFEE.COM",
+      "expected_brand": "Pact Coffee"
+    },
+    {
+      "dirty_name": "Www.parkingchargepayme",
+      "expected_brand": "PCNPayment"
+    },
+    {
+      "dirty_name": "WWW.SISALPAY.IT VIA ALE",
+      "expected_brand": "Mooney"
+    },
+    {
+      "dirty_name": "WWW.SSE.CO.UK",
+      "expected_brand": "SSE"
+    },
+    {
+      "dirty_name": "WWW.THORTFUL.COM",
+      "expected_brand": "Thortful"
+    },
+    {
+      "dirty_name": "WWW.TOOLSTATION.COM",
+      "expected_brand": "Toolstation"
+    },
+    {
+      "dirty_name": "Xiaomi Comm Bangalore    Bangalore    IN",
+      "expected_brand": "Xiaomi"
+    },
+    {
+      "dirty_name": "ZAP-HOSTING.COM",
+      "expected_brand": "Zap Hosting"
+    },
+    {
+      "dirty_name": "1 ET 1 INTERNET SARREGUEMINES FR",
+      "expected_brand": "1&1 Ionos"
+    },
+    {
+      "dirty_name": "2CO.com*electronic.us AMSTERDAM NL",
+      "expected_brand": "Electronic.us"
+    },
+    {
+      "dirty_name": "2CO.com*oxygenxml.com AMSTERDAM NL",
+      "expected_brand": "Oxygen XML Editor"
+    },
+    {
+      "dirty_name": "2CO.com*vmix.com AMSTERDAM NL",
+      "expected_brand": "vMix"
+    },
+    {
+      "dirty_name": "AEROMEXICO   AM QLFFSO TULSA US",
+      "expected_brand": "Aeromexico"
+    },
+    {
+      "dirty_name": "AEROPORT LYON COLOMBIER SAU FR",
+      "expected_brand": "Lyon Airport"
+    },
+    {
+      "dirty_name": "AEROPORT NICE COTE NICE CEDEX 3 FR",
+      "expected_brand": "Aéroport de Nice"
+    },
+    {
+      "dirty_name": "AGENCYANALYTICS 234-238-8725 CA",
+      "expected_brand": "AgencyAnalytics"
+    },
+    {
+      "dirty_name": "Alnatura Produktions u Berlin DE",
+      "expected_brand": "Alnatura Bio-Märkte"
+    },
+    {
+      "dirty_name": "Alza.cz a.s. Prague CZ",
+      "expected_brand": "Alza.cz"
+    },
+    {
+      "dirty_name": "AMBRUSSUM SUD LUNEL FR",
+      "expected_brand": "Ambrussum"
+    },
+    {
+      "dirty_name": "AN POST-OFFICES DUBLIN IE",
+      "expected_brand": "An Post"
+    },
+    {
+      "dirty_name": "APOLLO.IO* TEST TEMP A +14156912009 US",
+      "expected_brand": "Apollo.io"
+    },
+    {
+      "dirty_name": "ASK ITALIAN WESTFIELD LONDON GB",
+      "expected_brand": "Ask Italian"
+    },
+    {
+      "dirty_name": "Auth: 3RD ANNUAL TECHCRUNCH,DULLES,USA",
+      "expected_brand": "TechCrunch"
+    },
+    {
+      "dirty_name": "Auth: 4IMPRINT DIRECT,LONDON,GBR",
+      "expected_brand": "4imprint"
+    },
+    {
+      "dirty_name": "Auth: AFERRY LTD,ABINGDON,GBR",
+      "expected_brand": "AFerry"
+    },
+    {
+      "dirty_name": "Auth: APP RADAR SOFTWARE,Graz,AUT",
+      "expected_brand": "App Radar"
+    },
+    {
+      "dirty_name": "Auth: ARTBOARD.STUDIO,Newark,USA",
+      "expected_brand": "Artboard Studio"
+    },
+    {
+      "dirty_name": "Auth: ATLANTA AIRPORT,ATLANTA,USA",
+      "expected_brand": "Atlanta Airport"
+    },
+    {
+      "dirty_name": "Auth: ATLANTA BREAD AN,ATLANTA,USA",
+      "expected_brand": "Atlanta Bread"
+    },
+    {
+      "dirty_name": "Auth: Autonomous Inc.,NY,USA",
+      "expected_brand": "Autonomous"
+    },
+    {
+      "dirty_name": "Auth: AWEBER COMMUNICATIONS,CHALFONT,USA",
+      "expected_brand": "AWeber"
+    },
+    {
+      "dirty_name": "Auth: Baker Ross,Harlow,GBR",
+      "expected_brand": "Baker Ross"
+    },
+    {
+      "dirty_name": "Auth: BARNES & NOBLE #2153,OCEANSIDE,USA",
+      "expected_brand": "Barnes & Noble"
+    },
+    {
+      "dirty_name": "Auth: BEEFEATER 40537270,BIRMINGHAM,GBR",
+      "expected_brand": "Beefeater"
+    },
+    {
+      "dirty_name": "Auth: BEER 52, 441315545527,GBR",
+      "expected_brand": "Beer52"
+    },
+    {
+      "dirty_name": "Auth: BevNet Com Inc,617-7159675,USA",
+      "expected_brand": "BevNET.com"
+    },
+    {
+      "dirty_name": "Auth: BIGMARKER.COM. LLC,CHICAGO,USA",
+      "expected_brand": "BigMarker"
+    },
+    {
+      "dirty_name": "Auth: BLACK ISLE BREWING CO,INVERNESS,GB",
+      "expected_brand": "Black Isle Brewery"
+    },
+    {
+      "dirty_name": "Auth: BLACK RAINBOW PRINTING, 6135156935",
+      "expected_brand": "Black Rainbow Printing"
+    },
+    {
+      "dirty_name": "Auth: BLS*LawDepot 080001489,8775094398,",
+      "expected_brand": "LawDepot"
+    },
+    {
+      "dirty_name": "Auth: BOS HUDSON NEWS ST1921,BOSTON,USA",
+      "expected_brand": "Hudson Booksellers"
+    },
+    {
+      "dirty_name": "Auth: BOSTON PROPER,BOCA RATON,USA",
+      "expected_brand": "Boston Proper"
+    },
+    {
+      "dirty_name": "Auth: BROOKLYN FIBER BROOKLY,BROOKLYN,US",
+      "expected_brand": "Brooklyn Fiber"
+    },
+    {
+      "dirty_name": "Auth: BURBANK GROCERY OUTLET,BURBANK,USA",
+      "expected_brand": "Grocery Outlet"
+    },
+    {
+      "dirty_name": "Auth: BURKE DECOR,BOARDMAN,USA",
+      "expected_brand": "Burke Decor"
+    },
+    {
+      "dirty_name": "Auth: BUYAGIFT PLC,HERTFORDSHIRE,GBR",
+      "expected_brand": "Buyagift"
+    },
+    {
+      "dirty_name": "Auth: CAFFE RITAZZA EXPRESS,LONDON,GBR",
+      "expected_brand": "Caffe Ritazza"
+    },
+    {
+      "dirty_name": "Auth: CARTA (ESHARES), 16506698381,USA",
+      "expected_brand": "Carta"
+    },
+    {
+      "dirty_name": "Auth: CATHAY PACIFIC,HONG KONG,HKG",
+      "expected_brand": "Cathay Pacific"
+    },
+    {
+      "dirty_name": "Auth: CAVIAR*SHAKE SHACK, 16506819470,US",
+      "expected_brand": "Shake Shack"
+    },
+    {
+      "dirty_name": "Auth: CENTER PARCS, RETAIL,WARMINSTER,GB",
+      "expected_brand": "Center Parcs"
+    },
+    {
+      "dirty_name": "Auth: CGTrader,Vilnius,LTU",
+      "expected_brand": "CGTrader"
+    },
+    {
+      "dirty_name": "Auth: CIRRUS INSIGHT,IRVINE,USA",
+      "expected_brand": "Cirrus Insight"
+    },
+    {
+      "dirty_name": "Auth: ESTEE LAUDER ONLINE,877-311-3883,U",
+      "expected_brand": "Estée Lauder"
+    },
+    {
+      "dirty_name": "Auth: FIVE POINTS BREWING CO, 4420853377",
+      "expected_brand": "The Five Points Brewing"
+    },
+    {
+      "dirty_name": "Auth: HANDWRYTTEN,PHOENIX,USA",
+      "expected_brand": "Handwrytten"
+    },
+    {
+      "dirty_name": "Auth: HOP VIETNAMESE,LONDON,GBR",
+      "expected_brand": "Hop Vietnamese"
+    },
+    {
+      "dirty_name": "Auth: IZ *Blue tree Kitchen,london,GBR",
+      "expected_brand": "Blue Tree Kitchen"
+    },
+    {
+      "dirty_name": "Auth: IZ *FOURPURE LIMITED,London,GBR",
+      "expected_brand": "Fourpure"
+    },
+    {
+      "dirty_name": "Auth: IZ *VERISURE SERVICES,Brentford,GB",
+      "expected_brand": "Verisure"
+    },
+    {
+      "dirty_name": "Auth: L B ISLINGTON,LONDON,GBR",
+      "expected_brand": "Islington Council"
+    },
+    {
+      "dirty_name": "Auth: OPENRENT ADVERTISING,LONDON,GBR",
+      "expected_brand": "OpenRent"
+    },
+    {
+      "dirty_name": "Auth: PLANET ORGANIC,LONDON  EC2M,GBR",
+      "expected_brand": "Planet Organic"
+    },
+    {
+      "dirty_name": "Auth: RITE AID STORE - 517,BELLEVUE,USA",
+      "expected_brand": "Rite Aid"
+    },
+    {
+      "dirty_name": "Auth: Sharefile, LLC,Fort Lauderda,USA",
+      "expected_brand": "ShareFile"
+    },
+    {
+      "dirty_name": "Auth: SP * BROOKLINEN,NEW YORK,USA",
+      "expected_brand": "Brooklinen"
+    },
+    {
+      "dirty_name": "Auth: SP * NICE DRINKS,0000000,GBR",
+      "expected_brand": "Nice Drinks"
+    },
+    {
+      "dirty_name": "Auth: SUNOCO 0645590100,BEDFORD,USA",
+      "expected_brand": "Sunoco"
+    },
+    {
+      "dirty_name": "Auth: THE TOY ASSOCIATION, I,NEW YORK,US",
+      "expected_brand": "The Toy Association"
+    },
+    {
+      "dirty_name": "Auth: TODOIST COM,PALO ALTO,USA",
+      "expected_brand": "Todoist"
+    },
+    {
+      "dirty_name": "Auth: TOSSED,LONDON  EC1R,GBR",
+      "expected_brand": "Tossed"
+    },
+    {
+      "dirty_name": "Auth: TUBEBUDDYCOM*,ARROYO GRANDE,USA",
+      "expected_brand": "TubeBuddy"
+    },
+    {
+      "dirty_name": "Auth: VAGABOND,LONDON  W1T,GBR",
+      "expected_brand": "Vagabond Wines"
+    },
+    {
+      "dirty_name": "Auth: VAPIANO Mannheim 1,Mannheim,DEU",
+      "expected_brand": "Vapiano"
+    },
+    {
+      "dirty_name": "Auth: VIAGOGO EVENT TICKETS,WWW.VIAGOGO.",
+      "expected_brand": "Viagogo"
+    },
+    {
+      "dirty_name": "Auth: Wolt,Copenhagen,DNK",
+      "expected_brand": "Wolt"
+    },
+    {
+      "dirty_name": "AUTOGRILL RESSONS SUR M FR",
+      "expected_brand": "AutoGrill"
+    },
+    {
+      "dirty_name": "BAGEL CORNER PARIS FR",
+      "expected_brand": "Bagel Corner"
+    },
+    {
+      "dirty_name": "BH* BETTERHELP +18886889296 US",
+      "expected_brand": "BetterHelp"
+    },
+    {
+      "dirty_name": "BI1 LUZY LUZY FR",
+      "expected_brand": "Magasin Bi1"
+    },
+    {
+      "dirty_name": "Binance INTERNET LT",
+      "expected_brand": "Binance"
+    },
+    {
+      "dirty_name": "Bol.com Utrecht NL",
+      "expected_brand": "Bol.com"
+    },
+    {
+      "dirty_name": "BOOKDEPOSITORY.COM 441452307905 GB",
+      "expected_brand": "Book Depository"
+    },
+    {
+      "dirty_name": "Bowling WORLD Germany Berlin DE",
+      "expected_brand": "Bowling World Berlin"
+    },
+    {
+      "dirty_name": "BRICOLEX LEDRU CARRIERES-SUR FR",
+      "expected_brand": "Bricolex"
+    },
+    {
+      "dirty_name": "Bringmeister GmbH Berlin DE",
+      "expected_brand": "Bringmeister"
+    },
+    {
+      "dirty_name": "BRUSSELS AIRLINES E-CO ZAVENTEM BE",
+      "expected_brand": "Brussels Airlines"
+    },
+    {
+      "dirty_name": "BURWASH MANOR LARDER CAMBRIDGE CB2 GB",
+      "expected_brand": "Burwash Larder"
+    },
+    {
+      "dirty_name": "J. SAINSBURY           BAGSHOT PFS   GBR",
+      "expected_brand": "Sainsbury's"
+    },
+    {
+      "dirty_name": "JEWSON CHESTERFIELD GB",
+      "expected_brand": "Jewson"
+    },
+    {
+      "dirty_name": "JustGiving INTERNET GB",
+      "expected_brand": "JustGiving"
+    },
+    {
+      "dirty_name": "KARAOKE RECISIO PARIS FR",
+      "expected_brand": "Recisio"
+    },
+    {
+      "dirty_name": "Klarna *Klarna         Stockholm     SWE",
+      "expected_brand": "Klarna"
+    },
+    {
+      "dirty_name": "KOTO CARD LONDON UK46-48, East Streetgetkoto.comKT17 1HQ  GBRGBR",
+      "expected_brand": "Card Factory"
+    },
+    {
+      "dirty_name": "LAS IGUANAS NOTTINGHAM NOTTINGHAM GB",
+      "expected_brand": "Las Iguanas"
+    },
+    {
+      "dirty_name": "Lazada Singapore SG",
+      "expected_brand": "Lazada.sg"
+    },
+    {
+      "dirty_name": "LE MANS METROPOLE LE MANS CEDEX FR",
+      "expected_brand": "Le Mans Métropole"
+    },
+    {
+      "dirty_name": "LES GALLO PAI PLOUMAGOAR FR",
+      "expected_brand": "Les Gallo'pains"
+    },
+    {
+      "dirty_name": "LEVAPARC LEVALLOIS PER FR",
+      "expected_brand": "Levaparc"
+    },
+    {
+      "dirty_name": "LNER 07500447482 GB",
+      "expected_brand": "London North Eastern Railway"
+    },
+    {
+      "dirty_name": "LONDON TRANSPORT LONDON GB",
+      "expected_brand": "Transport for London"
+    },
+    {
+      "dirty_name": "LULULEMON ATHLETICA/UK LONDON GB",
+      "expected_brand": "Lululemon"
+    },
+    {
+      "dirty_name": "LW - OUICSE VILLENEUVE D' FR",
+      "expected_brand": "OuiCSE"
+    },
+    {
+      "dirty_name": "MATALAN                ERITH         GBR",
+      "expected_brand": "Matalan"
+    },
+    {
+      "dirty_name": "MAVERICKLABEL.COM EDMONDS US",
+      "expected_brand": "Maverick Label"
+    },
+    {
+      "dirty_name": "MAX BRENNER RETAIL LTD >PETAH TIQWA IL",
+      "expected_brand": "Max Brenner"
+    },
+    {
+      "dirty_name": "MCDONALD'S              WEMBLEY      GBR",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MCMASTER-C ELMHURST US",
+      "expected_brand": "McMaster-Carr"
+    },
+    {
+      "dirty_name": "FACEBK *P8DLEHEAZE (fb.me/ads)",
+      "expected_brand": "Facebook"
+    },
+    {
+      "dirty_name": "FACEBK *A3G5D1C6IU (fb.me/ads)",
+      "expected_brand": "Facebook"
+    },
+    {
+      "dirty_name": "FACEBK D2S5GNHYTP (fb.me/ads)",
+      "expected_brand": "Facebook"
+    },
+    {
+      "dirty_name": "FACEBK *O9U5RF73EC (fb.me/ads)",
+      "expected_brand": "Facebook"
+    },
+    {
+      "dirty_name": "FACEBK JDP20PH2IP  21 Rue Voltaire fb.me/ads 2 IRL",
+      "expected_brand": "Facebook"
+    },
+    {
+      "dirty_name": "Amazon.co.uk*DP2DLMP3E 1 Principal Place, Worship Str AMAZON.CO.UK EC2A 2FA GBR",
+      "expected_brand": "Amazon"
+    },
+    {
+      "dirty_name": "AMZN Mktp FR*A2R3SVF34 14 Rue de Vaucouleurs",
+      "expected_brand": "Amazon"
+    },
+    {
+      "dirty_name": "AMZN    Mktp F.   R*289OT9QU4 3.  8.  avenue John F. Kennedy amazon.fr L1855 LUX",
+      "expected_brand": "Amazon"
+    },
+    {
+      "dirty_name": "LinkedIn 4124266524 ln (LINKEDIN.COM)",
+      "expected_brand": "LinkedIn"
+    },
+    {
+      "dirty_name": "LinkedIn 6854221",
+      "expected_brand": "LinkedIn"
+    },
+    {
+      "dirty_name": "LinkedIn 6595473 qeffeqf.COM IE",
+      "expected_brand": "LinkedIn"
+    },
+    {
+      "dirty_name": "LINKEDIN-599*eeee LNKD.IN/BILL IE",
+      "expected_brand": "LinkedIn"
+    },
+    {
+      "dirty_name": "b-social:incoming-payment: 9zpd4bf4-333-4ff8-AZER-b1c7ff7bf21e",
+      "expected_brand": "Kroo"
+    },
+    {
+      "dirty_name": "b-social:incoming-payment: lqksfndqlfkheislfjddjqfpoqekopfa",
+      "expected_brand": "Kroo"
+    },
+    {
+      "dirty_name": "MSFT * E0300zoeD 70 mrd Rogersons Quay",
+      "expected_brand": "Microsoft"
+    },
+    {
+      "dirty_name": "MSFT * E0300zoeD 70 mrd Rogersons Quay MSBILL.INFO 2 IRL",
+      "expected_brand": "Microsoft"
+    },
+    {
+      "dirty_name": "MSFT * E0eD 70 mrd Rogersons Quay MSBILL.INFO 2 IRL",
+      "expected_brand": "Microsoft"
+    },
+    {
+      "dirty_name": "M S F T.    * E0eD 70 mrd Rogersons Quay MSBILL.INFO 2 IRL",
+      "expected_brand": "Microsoft"
+    },
+    {
+      "dirty_name": "UBER TRIP 4BAE2E HELP.U (help.uber.com)",
+      "expected_brand": "Uber"
+    },
+    {
+      "dirty_name": "UBER   *TRIP 45MIH (zzzzzzzzz)",
+      "expected_brand": "Uber"
+    },
+    {
+      "dirty_name": "UBER   *TRIP DEIOV A (SYDNEY)",
+      "expected_brand": "Uber"
+    },
+    {
+      "dirty_name": "UBER 2V3CFAZ HELP.U (help.uber.com)",
+      "expected_brand": "Uber"
+    },
+    {
+      "dirty_name": "UBER TWZSHdfsf HELP.U (help.uber.com)",
+      "expected_brand": "Uber"
+    },
+    {
+      "dirty_name": "DB BAHN  A-NR 72sDZZD (INTERNET)",
+      "expected_brand": "DB"
+    },
+    {
+      "dirty_name": "DB BAHN  A-NR 7UB4KY ()",
+      "expected_brand": "DB"
+    },
+    {
+      "dirty_name": "AIRBNB * HMANRZYEEW1S 4NG GBR",
+      "expected_brand": "Airbnb"
+    },
+    {
+      "dirty_name": "AIRBNB * HMCYPFERZ4 (318-488-4000)",
+      "expected_brand": "Airbnb"
+    },
+    {
+      "dirty_name": "AIRBNB * HMAQER3T1A (415-800-5959)",
+      "expected_brand": "Airbnb"
+    },
+    {
+      "dirty_name": "AIRBNB * HMATA2ZS4RF 318-488-4000 LU",
+      "expected_brand": "Airbnb"
+    },
+    {
+      "dirty_name": "AIRBNB * HMXYR",
+      "expected_brand": "Airbnb"
+    },
+    {
+      "dirty_name": "GOOGLE *ADS9826435",
+      "expected_brand": "Google"
+    },
+    {
+      "dirty_name": "PAYPAL *GOOGLE JOEYKRI 351A3ZE2R45",
+      "expected_brand": "Google"
+    },
+    {
+      "dirty_name": "GOOGLE*SVCSAPPS GETSTA (CC GOOGLE.COM)",
+      "expected_brand": "Google"
+    },
+    {
+      "dirty_name": "GOOGLE *ADS6972210269 Gordon House",
+      "expected_brand": "Google"
+    },
+    {
+      "dirty_name": "GOOGLE  ADS1430525439 Dublin IE",
+      "expected_brand": "Google"
+    },
+    {
+      "dirty_name": "GOOGLE *ADS9201731694 650-253-0000 IE",
+      "expected_brand": "Google"
+    },
+    {
+      "dirty_name": "GOOGLE *GSUITE_dual-te ()",
+      "expected_brand": "Google"
+    },
+    {
+      "dirty_name": "HOTELS.COM157 (HOTELS.COM)",
+      "expected_brand": "Hotels.com"
+    },
+    {
+      "dirty_name": "HOTELSCOM1726536 (FR.HOTELS.COM)",
+      "expected_brand": "Hotels.com"
+    },
+    {
+      "dirty_name": "HOTELSCOM9193194413287 Calle Villalba Hervas 9 FR.HOTELS.COM 38002 ESP",
+      "expected_brand": "Hotels.com"
+    },
+    {
+      "dirty_name": "HOTELS.COM152977888126 (HOTELES.COM)",
+      "expected_brand": "Hotels.com"
+    },
+    {
+      "dirty_name": "Twilio 39ST833AEQL 21 Bis Rue de Vaucouleurs Paris",
+      "expected_brand": "Twilio"
+    },
+    {
+      "dirty_name": "Twilio 5AZEK9PVC0N San Francisco US",
+      "expected_brand": "Twilio"
+    },
+    {
+      "dirty_name": "Twilio 5QAMB43DTI6 (SF)",
+      "expected_brand": "Twilio"
+    },
+    {
+      "dirty_name": "FREENOW*4UKR3P-2 Groezroezrezr",
+      "expected_brand": "FREE NOW"
+    },
+    {
+      "dirty_name": "FREENOW*56AICU-2 4 Place du 8 Mai 1945 FR-NOW.COM 92300 FRA",
+      "expected_brand": "FREE NOW"
+    },
+    {
+      "dirty_name": "FREE NOW*3ZZ1-2 (tour)",
+      "expected_brand": "FREE NOW"
+    },
+    {
+      "dirty_name": "BOLT.EU /O/21050812     ESTEST",
+      "expected_brand": "Bolt"
+    },
+    {
+      "dirty_name": "BOLT.EU /O/1907172215 EST",
+      "expected_brand": "Bolt"
+    },
+    {
+      "dirty_name": "BOLT.EU /O/210512049",
+      "expected_brand": "Bolt"
+    },
+    {
+      "dirty_name": "Upwork -37293782039",
+      "expected_brand": "Upwork"
+    },
+    {
+      "dirty_name": "Upwork -37293782039 21 Rue de République",
+      "expected_brand": "Upwork"
+    },
+    {
+      "dirty_name": "Upwork -37293782039 Ireland",
+      "expected_brand": "Upwork"
+    },
+    {
+      "dirty_name": "easyJetEXD7AZ2E",
+      "expected_brand": "easyJet"
+    },
+    {
+      "dirty_name": "easyJet  Luton",
+      "expected_brand": "easyJet"
+    },
+    {
+      "dirty_name": "easyJetEXPAPZO (EASYJET)",
+      "expected_brand": "easyJet"
+    },
+    {
+      "dirty_name": "EASYJET000    EVS7AP2 (LUTON",
+      "expected_brand": "easyJet"
+    },
+    {
+      "dirty_name": "SHOPIFY* 100299842 2nd Floor",
+      "expected_brand": "Shopify"
+    },
+    {
+      "dirty_name": "SHOPIFY* 107586304",
+      "expected_brand": "Shopify"
+    },
+    {
+      "dirty_name": "TESCO FRNK BIR",
+      "expected_brand": "Tesco"
+    },
+    {
+      "dirty_name": "TESCO BSHP STDPEMS",
+      "expected_brand": "Tesco"
+    },
+    {
+      "dirty_name": "TESCO STORE 2394 CYGNET VIEW LAKEAAA",
+      "expected_brand": "Tesco"
+    },
+    {
+      "dirty_name": "TRAVELPERK/TRIP 163",
+      "expected_brand": "TravelPerk"
+    },
+    {
+      "dirty_name": "TRAVELPERK/ID 1939",
+      "expected_brand": "TravelPerk"
+    },
+    {
+      "dirty_name": "TRAVELPERK/ID 1893180 (Bcl)",
+      "expected_brand": "TravelPerk"
+    },
+    {
+      "dirty_name": "HEROKU JAN-23912231 (8662781349)",
+      "expected_brand": "Heroku"
+    },
+    {
+      "dirty_name": "HEROKU-50792981 CA USA",
+      "expected_brand": "Heroku"
+    },
+    {
+      "dirty_name": "HEROKU JAN-46157234 (8662781349)",
+      "expected_brand": "Heroku"
+    },
+    {
+      "dirty_name": "XERO GLOBAL IN-2239494 ()",
+      "expected_brand": "Xero"
+    },
+    {
+      "dirty_name": "XERO GLOBA",
+      "expected_brand": "Xero"
+    },
+    {
+      "dirty_name": "LUFTHANSA 142424",
+      "expected_brand": "Lufthansa"
+    },
+    {
+      "dirty_name": "LUFTHANSA 1400220533 (Paris)",
+      "expected_brand": "Lufthansa"
+    },
+    {
+      "dirty_name": "MC DONALD (CAZERES)",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MCDONALDS 823 BY PASS FRANCE",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MC DONALD S SC CENTRE COMMERCIAL CHATELET",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MC DONALD S SC (BCN)",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MCDONALDS 1234 ()",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MC DONALDS  ASFAV SEVERO DULLIUS 90010PORTO ALEGRE9020031000Bzrzrzr",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MCDONALD'S 12670 FRA",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MCDONALD'S F21233~~PARIS CITY~01508     MA 840",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MC DO LAROQUE",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MCDONALDS HIGH STREET",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "MCDONALDS 01424 Fraunhoeprstraße",
+      "expected_brand": "McDonald's"
+    },
+    {
+      "dirty_name": "DROPBOX*SSXJBDPEZCL4",
+      "expected_brand": "Dropbox"
+    },
+    {
+      "dirty_name": "Dropbox 8CK1Z5DEPAOR (db.tt/cchelp)",
+      "expected_brand": "Dropbox"
+    },
+    {
+      "dirty_name": "Dropbox 8XBPAOZKZPEZ",
+      "expected_brand": "Dropbox"
+    },
+    {
+      "dirty_name": "EXPEDIA 72020342150618",
+      "expected_brand": "Expedia"
+    },
+    {
+      "dirty_name": "EXPEDIA 7535785942999 Calle de la casa EXPEDIA.CO.UK",
+      "expected_brand": "Expedia"
+    },
+    {
+      "dirty_name": "EXPEDIA 7504402484100 Calle 38002 ESP",
+      "expected_brand": "Expedia"
+    },
+    {
+      "dirty_name": "CARREFOUR D (SALLA)",
+      "expected_brand": "Carrefour"
+    },
+    {
+      "dirty_name": "CARREFOUR CITE PAR FRANCE",
+      "expected_brand": "Carrefour"
+    },
+    {
+      "dirty_name": "CARREFOUR MONTEL IMPASSE DU PETIT SOLEIL PEUCHERE",
+      "expected_brand": "Carrefour"
+    },
+    {
+      "dirty_name": "LA POSTE 755000 (PARIS)",
+      "expected_brand": "La Poste"
+    },
+    {
+      "dirty_name": "LA POSTE L750493 (BONVI)",
+      "expected_brand": "La Poste"
+    },
+    {
+      "dirty_name": "LA POSTE L758820 21 RUE VOLTAIRE 75020 PARIS",
+      "expected_brand": "La Poste"
+    },
+    {
+      "dirty_name": "LA POSTE 756302 CLICHY",
+      "expected_brand": "La Poste"
+    },
+    {
+      "dirty_name": "Shel",
+      "expected_brand": "Shell"
+    },
+    {
+      "dirty_name": "SHELL STATION BLOEND (M)",
+      "expected_brand": "Shell"
+    },
+    {
+      "dirty_name": "Shell 2504 A Halte 45721 DEU",
+      "expected_brand": "Shell"
+    },
+    {
+      "dirty_name": "SAINSBURYS LOC 4351BLFIELDS1 2GA    GBRGBR",
+      "expected_brand": "Sainsbury's"
+    },
+    {
+      "dirty_name": "SAINSBURYS SACAT (4338 LzzzON        GBR",
+      "expected_brand": "Sainsbury's"
+    },
+    {
+      "dirty_name": "SAINSBURYS SACAT 0630LOMBARDY RETAIL PARKAZAESUB3 3EX   GBRGBR",
+      "expected_brand": "Sainsbury's"
+    },
+    {
+      "dirty_name": "SAINSS LOC (4444)",
+      "expected_brand": "Sainsbury's"
+    },
+    {
+      "dirty_name": "SAINSBURYS LOC242",
+      "expected_brand": "Sainsbury's"
+    },
+    {
+      "dirty_name": "SAINSBURYS OPT 124AIRN~IV12 5QW     826",
+      "expected_brand": "Sainsbury's"
+    },
+    {
+      "dirty_name": "HPCL SAMAY CE  NASHIK       IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL BAXISRQEQ",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCL V RAMCHANDRA AND C  AHMEDEEEER   IN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "HPCLLIKA GAN",
+      "expected_brand": "Hindustan Petroleum"
+    },
+    {
+      "dirty_name": "CANVA* 02766-12130493 (8778877815)",
+      "expected_brand": "Canva"
+    },
+    {
+      "dirty_name": "CANVA* 02919-115EEEE8 US",
+      "expected_brand": "Canva"
+    },
+    {
+      "dirty_name": "CANVA* 023753 20 S Dupo Hight 8778877815 19934 DE USA",
+      "expected_brand": "Canva"
+    },
+    {
+      "dirty_name": "Flyem*DE191022418 (FlyeralarmC13)",
+      "expected_brand": "Flyeralarm"
+    },
+    {
+      "dirty_name": "Flyeralarm*FR180002988 (F)",
+      "expected_brand": "Flyeralarm"
+    },
+    {
+      "dirty_name": "Flyeralarm*DE201188257 AlfERQE. 18 Flyeralarm 97080 DEU",
+      "expected_brand": "Flyeralarm"
+    },
+    {
+      "dirty_name": "ENVATO 5418340 South",
+      "expected_brand": "Envato"
+    },
+    {
+      "dirty_name": "ENVATOMARKET51820392 (61383766284)",
+      "expected_brand": "Envato"
+    },
+    {
+      "dirty_name": "IBIS MURANAPEOJA (WARSZAWA)",
+      "expected_brand": "Ibis"
+    },
+    {
+      "dirty_name": "IBIS 1 RUE VOLTAIRE PARIS 11160 FRA",
+      "expected_brand": "Ibis"
+    },
+    {
+      "dirty_name": "AMZNPRIME DE*286",
+      "expected_brand": "Amazon Prime"
+    },
+    {
+      "dirty_name": "Amazon PRIME BE41 Principal Place",
+      "expected_brand": "Amazon Prime"
+    },
+    {
+      "dirty_name": "AMZNPrime DE*LJ5HI2H15 5 rue LUX",
+      "expected_brand": "Amazon Prime"
+    },
+    {
+      "dirty_name": "PrimeNowMktp*MAAZZEJ4 (amazon.es)",
+      "expected_brand": "Amazon Prime"
+    },
+    {
+      "dirty_name": "Prime Video~~888-802-3203930     WA 840",
+      "expected_brand": "Amazon Prime"
+    },
+    {
+      "dirty_name": "mytaxi.com*2YGX         724",
+      "expected_brand": "myTaxi"
+    },
+    {
+      "dirty_name": "mytaxi.com*2O(tour)",
+      "expected_brand": "myTaxi"
+    },
+    {
+      "dirty_name": "PAYPAL *EBAY FINDIRTBA2 Whit35314369001TW91EH",
+      "expected_brand": "eBay"
+    },
+    {
+      "dirty_name": "PAYPAL *HO4 EBAY HO4   03103369001   GBR",
+      "expected_brand": "eBay"
+    },
+    {
+      "dirty_name": "E.LECLERC WEB LIEU DIT COUCOU ST BRANDAN 22800 FRA",
+      "expected_brand": "E.Leclerc"
+    },
+    {
+      "dirty_name": "E.LECLERC WEB 121 ROUTE DE PARIS",
+      "expected_brand": "E.Leclerc"
+    },
+    {
+      "dirty_name": "INTERMARCHE",
+      "expected_brand": "Intermarché"
+    },
+    {
+      "dirty_name": "INTERMARCHE ST GEOOOOO",
+      "expected_brand": "Intermarché"
+    },
+    {
+      "dirty_name": "INTERMARCHE NEVer FR",
+      "expected_brand": "Intermarché"
+    },
+    {
+      "dirty_name": "BHARAT PETROLEUM",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL C SRUTHIKA SRI AG AVI-AVI  IN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL C SRUTHIKA SRI AZEAI INDIA",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL KHUSHI RAM P      IN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL KARDHANI     JA     IN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL SAI NIKHILA ENTERP  HYDEZQEAZE  IN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "BPCL PARVATHI FUEL FZEAZEAL     IN",
+      "expected_brand": "Bharat Petroleum"
+    },
+    {
+      "dirty_name": "TIER IT 8-8986",
+      "expected_brand": "Tier"
+    },
+    {
+      "dirty_name": "TIER AT 5-14390 +49398 DE",
+      "expected_brand": "Tier"
+    },
+    {
+      "dirty_name": "TIER DE 34040 37798)",
+      "expected_brand": "Tier"
+    },
+    {
+      "dirty_name": "TIER DE 12-76231()",
+      "expected_brand": "Tier"
+    },
+    {
+      "dirty_name": "TIER DE 6-203 (BERLIN)",
+      "expected_brand": "Tier"
+    },
+    {
+      "dirty_name": "TIER DE 8-140281 (+49323943204)",
+      "expected_brand": "Tier"
+    },
+    {
+      "dirty_name": "EUROWINGS   H93LEM_121 (DUESSELDORF)",
+      "expected_brand": "Eurowings"
+    },
+    {
+      "dirty_name": "EUROWINGS WFVEPD_158 (UND)",
+      "expected_brand": "Eurowings"
+    },
+    {
+      "dirty_name": "EUROWINGS ùzSHJ_162 (DORTMUND)",
+      "expected_brand": "Eurowings"
+    },
+    {
+      "dirty_name": "EUROWINGS CKPPPB_185 Lindema",
+      "expected_brand": "Eurowings"
+    },
+    {
+      "dirty_name": "Glovo 07FEB ZERKHHLL BCN",
+      "expected_brand": "Glovo"
+    },
+    {
+      "dirty_name": "Glovo 25APR BEZRARAR",
+      "expected_brand": "Glovo"
+    },
+    {
+      "dirty_name": "Glovo 13AVR BD7",
+      "expected_brand": "Glovo"
+    },
+    {
+      "dirty_name": "GLOVO #B5CLeerP (BCN)",
+      "expected_brand": "Glovo"
+    },
+    {
+      "dirty_name": "Glovo Street Pallars 85-91 glovoapp.com 08018 ESP",
+      "expected_brand": "Glovo"
+    },
+    {
+      "dirty_name": "Docker",
+      "expected_brand": "Docker"
+    },
+    {
+      "dirty_name": "DOCKER:INV-4F71E9ANCISCO 94107 CA USA",
+      "expected_brand": "Docker"
+    },
+    {
+      "dirty_name": "DOCKERINV-70CB18FB-40 144 Tow CA USA",
+      "expected_brand": "Docker"
+    },
+    {
+      "dirty_name": "DOCKERINV-690C (8007644847)",
+      "expected_brand": "Docker"
+    },
+    {
+      "dirty_name": "LIDL (MAR)",
+      "expected_brand": "Lidl"
+    },
+    {
+      "dirty_name": "LIDL GB  HANDSWLYHEAD ROHHB1 0AP    GBRGBR",
+      "expected_brand": "Lidl"
+    },
+    {
+      "dirty_name": "LIDL UK CROON",
+      "expected_brand": "Lidl"
+    },
+    {
+      "dirty_name": "LIDL GBLIXSTOWE    FELIXST",
+      "expected_brand": "Lidl"
+    },
+    {
+      "dirty_name": "LIDL     1493 (GVETT)",
+      "expected_brand": "Lidl"
+    },
+    {
+      "dirty_name": "LIDL IES",
+      "expected_brand": "Lidl"
+    },
+    {
+      "dirty_name": "LIDL 2685 6 AV 7400 FRA",
+      "expected_brand": "Lidl"
+    },
+    {
+      "dirty_name": "LIDL 43 RUE FRA",
+      "expected_brand": "Lidl"
+    },
+    {
+      "dirty_name": "Lidl Vertriebs GmbH g 22305 DEU",
+      "expected_brand": "Lidl"
+    },
+    {
+      "dirty_name": "ESSO STAT. BODMAN-LUDW (DWIG)",
+      "expected_brand": "Esso"
+    },
+    {
+      "dirty_name": "MFG RYTON  GBR",
+      "expected_brand": "Esso"
+    },
+    {
+      "dirty_name": "ESSO S  0 ALESSADI 15 AL IT",
+      "expected_brand": "Esso"
+    },
+    {
+      "dirty_name": "ESSO RO CE PT(CCLE)",
+      "expected_brand": "Esso"
+    },
+    {
+      "dirty_name": "ESSO ESO CANELIE 21 RUE PE CORN TNCE 33400 FRA",
+      "expected_brand": "Esso"
+    },
+    {
+      "dirty_name": "STAZIE ES ANGN (ROA)",
+      "expected_brand": "Esso"
+    },
+    {
+      "dirty_name": "ESSO 0341~~MIL  380",
+      "expected_brand": "Esso"
+    },
+    {
+      "dirty_name": "ESSO DEBU~~ARBS~6      250",
+      "expected_brand": "Esso"
+    },
+    {
+      "dirty_name": "SLACK TD4T e Pak Pace",
+      "expected_brand": "Slack"
+    },
+    {
+      "dirty_name": "SLACK T0N (DUBLIN)",
+      "expected_brand": "Slack"
+    },
+    {
+      "dirty_name": "SLACK TEZQRZEK3K One Park Place",
+      "expected_brand": "Slack"
+    },
+    {
+      "dirty_name": "SLACK T0TqerERER",
+      "expected_brand": "Slack"
+    },
+    {
+      "dirty_name": "Aral Station 16105 SALZGITTBLICK Salzer 38 U",
+      "expected_brand": "Aral"
+    },
+    {
+      "dirty_name": "Aral Station 287416 AN R UDE 242 Ben 19",
+      "expected_brand": "Aral"
+    },
+    {
+      "dirty_name": "ARAL STATION 15129 (ODELZH)",
+      "expected_brand": "Aral"
+    },
+    {
+      "dirty_name": "ARAL STATION 201288880 (SOLI)",
+      "expected_brand": "Aral"
+    },
+    {
+      "dirty_name": "DELTA00623540 (BRUSS)",
+      "expected_brand": "Delta"
+    },
+    {
+      "dirty_name": "DELTA006236FREDS16 (ELS)",
+      "expected_brand": "Delta"
+    },
+    {
+      "dirty_name": "CRV*Starbucks  12KOKOK (L)",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "Starbucks  120POIKJ (Köln)",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "STARBUCK AT ATL (ATLANTA)",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "STARBUCKS HELLLY TE A267 HAILM BBR",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "Starbucks Coffee (nèv)",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "STARBUCKS 4 (ILLZ)",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "STARBUCKS AEROT RSY AERE  ROY EN A 00 FRA",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "STARBUCKS BH STAN  GBR",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "STARBUCKS AMERI HS (UCRI)",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "STARBUCKS COFFEE~~PA~750      250",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "STARBUCKS B05 D (CHGO)",
+      "expected_brand": "Starbucks"
+    },
+    {
+      "dirty_name": "Spotify P15C38UHUO Lon GB",
+      "expected_brand": "Spotify"
+    },
+    {
+      "dirty_name": "Spotify P0KOKJ712 London GB",
+      "expected_brand": "Spotify"
+    },
+    {
+      "dirty_name": "Spotify P0E  GBR",
+      "expected_brand": "Spotify"
+    },
+    {
+      "dirty_name": "Spotify P 3h Floor",
+      "expected_brand": "Spotify"
+    },
+    {
+      "dirty_name": "DRIVENOW 9379809835 (MUENCHEN)",
+      "expected_brand": "DriveNow"
+    },
+    {
+      "dirty_name": "DRIVENOW 9388098976 (DN)",
+      "expected_brand": "DriveNow"
+    },
+    {
+      "dirty_name": "DRIVENOW 94137JOJOM1 (DN)",
+      "expected_brand": "DriveNow"
+    },
+    {
+      "dirty_name": "VUELING A 4HA C Plaza Pla",
+      "expected_brand": "Vueling"
+    },
+    {
+      "dirty_name": "VUELING BARCELONA 08 ESP",
+      "expected_brand": "Vueling"
+    },
+    {
+      "dirty_name": "VUELING A (BARCELONA)",
+      "expected_brand": "Vueling"
+    },
+    {
+      "dirty_name": "PO ORPING 2OW BLS HOUST        4MBE     GBR",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "POST ICE COUNT - 6 LA BGE ROADLND0AJ      GBR",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "THE POST OFFICE 16 NW OSS ROASE14 5DG     GBR",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "POST OFFICE (BELFAST)",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "PO MITCHAM ROAD 18W BES HOUSSU      3EC     GBR",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "PO WOLVERHAMPTO46 RHAMPTO1 GBR",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "PO WOLVERHAMPTON R 1B S HOUSEMANDS    3EC4M     GBR",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "PO KINGSLAND H 0138 LON 1 GBR",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "PO LANCASTER RD 12BO BS HOUSESEX   3EC4M 9BE     GBR",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "POST OFFICE COUNTER   GBR",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "POST OFFICE FAULKNER STREET CHESTER",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "POST OFFICE SELF S~LONDON  826",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "POST OFFICE COUNTER (TMREIL) SKELE WN8 6UJ GBR",
+      "expected_brand": "Post Office"
+    },
+    {
+      "dirty_name": "DEEPL* DP-818580 MaaOOO 15 K 25 BE DEU",
+      "expected_brand": "DeepL"
+    },
+    {
+      "dirty_name": "DEEPL* DP-345342 (KOLN)",
+      "expected_brand": "DeepL"
+    },
+    {
+      "dirty_name": "Avis Rent-A-Car (09KPLK716FR2)",
+      "expected_brand": "Avis"
+    },
+    {
+      "dirty_name": "Avis Rent-A-Car (4KOP6791IT4)",
+      "expected_brand": "Avis"
+    },
+    {
+      "dirty_name": "Avis Budget (Le)",
+      "expected_brand": "Avis"
+    },
+    {
+      "dirty_name": "Avis Rent-A-Car (E425)",
+      "expected_brand": "Avis"
+    },
+    {
+      "dirty_name": "Avis Budget (awa)",
+      "expected_brand": "Avis"
+    },
+    {
+      "dirty_name": "AVIS ORANS (ORS)",
+      "expected_brand": "Avis"
+    },
+    {
+      "dirty_name": "Avis~~Metz   250",
+      "expected_brand": "Avis"
+    },
+    {
+      "dirty_name": "TRAVELEX@ASITOL WAFF EDGE RDCLW9 0AS",
+      "expected_brand": "ASDA"
+    },
+    {
+      "dirty_name": "ASDA HUD'FIK HUDLD  GBR",
+      "expected_brand": "ASDA"
+    },
+    {
+      "dirty_name": "ASDA PETROL/UPK   GBR",
+      "expected_brand": "ASDA"
+    },
+    {
+      "dirty_name": "PAYPAL *ASDASDA Hse Sounk",
+      "expected_brand": "ASDA"
+    },
+    {
+      "dirty_name": "ASDA EADS 1",
+      "expected_brand": "ASDA"
+    },
+    {
+      "dirty_name": "PADDLE.NET* ondon~NN18 8JG     826",
+      "expected_brand": "Paddle"
+    },
+    {
+      "dirty_name": "PADDLE.NET* MAAMP (London)",
+      "expected_brand": "Paddle"
+    },
+    {
+      "dirty_name": "SIXT CAR 22OCT Y)",
+      "expected_brand": "Sixt"
+    },
+    {
+      "dirty_name": "SIXT CAR 94693/00 (ANY)",
+      "expected_brand": "Sixt"
+    },
+    {
+      "dirty_name": "SIXT CAR 22SE RD route de60190 FRA",
+      "expected_brand": "Sixt"
+    },
+    {
+      "dirty_name": "SIXT SHARE 010746 Zugspt1 . 82 DEU",
+      "expected_brand": "Sixt"
+    },
+    {
+      "dirty_name": "SIXT9477537097 ZugspiN82049 DEU",
+      "expected_brand": "Sixt"
+    },
+    {
+      "dirty_name": "SIXT9476835840 RD 7 rou e Pice AVIRY 690 FRA",
+      "expected_brand": "Sixt"
+    },
+    {
+      "dirty_name": "SIXT SHARE 01001HHKJK64 Zugspr. 1 . 82049 DEU",
+      "expected_brand": "Sixt"
+    },
+    {
+      "dirty_name": "SIXT CAR 06JHJHJSE (AVIRIGNY)",
+      "expected_brand": "Sixt"
+    },
+    {
+      "dirty_name": "SIXT CAR 25FEB V RD 75 Y 60190 FRA",
+      "expected_brand": "Sixt"
+    },
+    {
+      "dirty_name": "PHARMACIE DU 7 18 B AVENUET PARIS 75007 FRA",
+      "expected_brand": "Pharmacie"
+    },
+    {
+      "dirty_name": "PHARMACIE LEBON (PARIS)",
+      "expected_brand": "Pharmacie"
+    },
+    {
+      "dirty_name": "PHARMACIE RYAN (PARIS)",
+      "expected_brand": "Pharmacie"
+    },
+    {
+      "dirty_name": "PHARMACIE CENTRALE 6 RUE CENTRALE NICE 06300 FRA",
+      "expected_brand": "Pharmacie"
+    },
+    {
+      "dirty_name": "PHARMACIE FELIX (ISSY LES MOUL)",
+      "expected_brand": "Pharmacie"
+    },
+    {
+      "dirty_name": "PHARMACIE SERVAIS NAMLKL (BRUXELLES)",
+      "expected_brand": "Pharmacie"
+    },
+    {
+      "dirty_name": "RELAY 324999350PX (PARIS)",
+      "expected_brand": "Relay"
+    },
+    {
+      "dirty_name": "RELAY 373JOOK (BLAGNAC)",
+      "expected_brand": "Relay"
+    },
+    {
+      "dirty_name": "RELAY 323121PX PL LOS AD PARIS 12 75012 FRA",
+      "expected_brand": "Relay"
+    },
+    {
+      "dirty_name": "RELAY37371C AROT MNTELR MAIO 34130 FRA",
+      "expected_brand": "Relay"
+    },
+    {
+      "dirty_name": "TOTAL SER STAT (ROCK)",
+      "expected_brand": "Total"
+    },
+    {
+      "dirty_name": "TOTAL NB009 NILL (NIELES)",
+      "expected_brand": "Total"
+    },
+    {
+      "dirty_name": "TOTAL ServiNStan RIEM-WL DE",
+      "expected_brand": "Total"
+    },
+    {
+      "dirty_name": "TOTAL NB09 ROSIE (ROSES)",
+      "expected_brand": "Total"
+    },
+    {
+      "dirty_name": "TOTAL SERE SAON (CHEN)",
+      "expected_brand": "Total"
+    },
+    {
+      "dirty_name": "AUCHAN BOUE (ST MAN BU)",
+      "expected_brand": "Auchan"
+    },
+    {
+      "dirty_name": "AUCHAN Gda Szci ul.Szczea 3 Gk 80-176 POL",
+      "expected_brand": "Auchan"
+    },
+    {
+      "dirty_name": "AUCHAN SU SC 3 RU DE L'UNIVE LY 7 07 FRA",
+      "expected_brand": "Auchan"
+    },
+    {
+      "dirty_name": "AUCHAN BUAY (BUCY)",
+      "expected_brand": "Auchan"
+    },
+    {
+      "dirty_name": "AUCHAN SR S 10 RE D L AMBASUR CONS SE 780 FRA",
+      "expected_brand": "Auchan"
+    },
+    {
+      "dirty_name": "CRV*KFC    Lon        GBR",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "KFC - TPE RK      STES       GBR",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "KFC (FERES-LE)",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "KFC FRE (FNS REI)",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "KFC - WASOW FC",
+      "expected_brand": "KFC"
+    },
+    {
+      "dirty_name": "Kindle Svcs*MF004 5 re Plas 35-1461 L8 UX",
+      "expected_brand": "Kindle"
+    },
+    {
+      "dirty_name": "Kindle Svcs*A43775CS5 5 rue Plaeti 442-116 L8 FR",
+      "expected_brand": "Kindle"
+    },
+    {
+      "dirty_name": "Kindle Svcs*252IF29X5 (442-011232546)",
+      "expected_brand": "Kindle"
+    },
+    {
+      "dirty_name": "Kindle Svcs*MJ104 (-74181058)",
+      "expected_brand": "Kindle"
+    },
+    {
+      "dirty_name": "Kindle Svcs*R335ISPZO (442-011518546)",
+      "expected_brand": "Kindle"
+    },
+    {
+      "dirty_name": "Revolut* - 1411",
+      "expected_brand": "Revolut"
+    },
+    {
+      "dirty_name": "Revolut**323* 4th Floor",
+      "expected_brand": "Revolut"
+    },
+    {
+      "dirty_name": "Revolut*9911*   revolut.com   GBR: Reverse Authorisation for Auth on",
+      "expected_brand": "Revolut"
+    },
+    {
+      "dirty_name": "Revolut*8422*",
+      "expected_brand": "Revolut"
+    },
+    {
+      "dirty_name": "Revolut**2187* 4th Floor",
+      "expected_brand": "Revolut"
+    },
+    {
+      "dirty_name": "FEDEX 95349 (MEMPHIS)",
+      "expected_brand": "FedEx"
+    },
+    {
+      "dirty_name": "FEDEX 77816350 (MEMPHIS)",
+      "expected_brand": "FedEx"
+    },
+    {
+      "dirty_name": "FEDEX 41860 (800-4633339)",
+      "expected_brand": "FedEx"
+    },
+    {
+      "dirty_name": "SNCF (HAAU)",
+      "expected_brand": "SNCF"
+    },
+    {
+      "dirty_name": "SNCF LD EME SF ASNS SU 90 FR",
+      "expected_brand": "SNCF"
+    },
+    {
+      "dirty_name": "SNCF LD EMP SN ORY 90 FRA",
+      "expected_brand": "SNCF"
+    },
+    {
+      "dirty_name": "SNCF PL DU GENEL D GL MEZ 50 FRA",
+      "expected_brand": "SNCF"
+    },
+    {
+      "dirty_name": "SNCF RUE DE LA STN NLYUR  90 RA",
+      "expected_brand": "SNCF"
+    },
+    {
+      "dirty_name": "SNCF (SOULT)",
+      "expected_brand": "SNCF"
+    },
+    {
+      "dirty_name": "SNCF LD EMPRE SC CERY 73100 FRA",
+      "expected_brand": "SNCF"
+    },
+    {
+      "dirty_name": "SNCF (MN)",
+      "expected_brand": "SNCF"
+    },
+    {
+      "dirty_name": "SNCF LD EMPRI SN FLY S  4504 FA",
+      "expected_brand": "SNCF"
+    },
+    {
+      "dirty_name": "ROYAL BK OF SCOTLAND",
+      "expected_brand": "Royal Bank of Scotland"
+    },
+    {
+      "dirty_name": "RBS 250 BISHOPSGATE250 BISHOP2M 4AA  GBR",
+      "expected_brand": "Royal Bank of Scotland"
+    },
+    {
+      "dirty_name": "GRAMMARLY COBPGBX3X 548 MET T 310 46 94104 CA USA",
+      "expected_brand": "Grammarly"
+    },
+    {
+      "dirty_name": "GRAMMARLY COCZPEKDO (8883186146)",
+      "expected_brand": "Grammarly"
+    },
+    {
+      "dirty_name": "GRAMMARLY COJNFIOEJZ7D (88831EZF)",
+      "expected_brand": "Grammarly"
+    },
+    {
+      "dirty_name": "GRAMMARLY COQWLZERZER 548 MARKET ST 3544104 CA USA",
+      "expected_brand": "Grammarly"
+    },
+    {
+      "dirty_name": "GRAMMARLY O~941040000 CA 840",
+      "expected_brand": "Grammarly"
+    },
+    {
+      "dirty_name": "CO-OP GROUP FOOD38 SE5 5QF",
+      "expected_brand": "Co-op"
+    },
+    {
+      "dirty_name": "LINCOLNSHIRE CO-OP ET GBR",
+      "expected_brand": "Co-op"
+    },
+    {
+      "dirty_name": "CO-OP GROUP F",
+      "expected_brand": "Co-op"
+    },
+    {
+      "dirty_name": "CO-OP EMMON ROAE182RS      GBR",
+      "expected_brand": "Co-op"
+    },
+    {
+      "dirty_name": "CO-OP GR CRAIL",
+      "expected_brand": "Co-op"
+    },
+    {
+      "dirty_name": "ETSY.COM LULUZEFR EELE 11ETSY.COM IRL",
+      "expected_brand": "Etsy"
+    },
+    {
+      "dirty_name": "Etsy.com - LavaObjecER6 Dublin 1 IRL",
+      "expected_brand": "Etsy"
+    },
+    {
+      "dirty_name": "Etsy.com - MagoWoodPro (IRELAND)",
+      "expected_brand": "Etsy"
+    },
+    {
+      "dirty_name": "ETSY.COM IRONTREET ETSY.COM IRL",
+      "expected_brand": "Etsy"
+    },
+    {
+      "dirty_name": "Etsy.com - U7 Great Strand Street Dublin 1 IRL",
+      "expected_brand": "Etsy"
+    },
+    {
+      "dirty_name": "Etsy.com - Dublin 1 IRL",
+      "expected_brand": "Etsy"
+    },
+    {
+      "dirty_name": "Etsy.com - Street Dublin 1 IRL",
+      "expected_brand": "Etsy"
+    },
+    {
+      "dirty_name": "ADOBE PHOTO",
+      "expected_brand": "Adobe"
+    },
+    {
+      "dirty_name": "ADOBE CREAE CD 35 PA AVEE 858 95110 CA USA",
+      "expected_brand": "Adobe"
+    },
+    {
+      "dirty_name": "ADOBE AFT EFC IL 46 Rvalk",
+      "expected_brand": "Adobe"
+    },
+    {
+      "dirty_name": "Adobe PremePro~~AD.COM~D24          372",
+      "expected_brand": "Adobe"
+    },
+    {
+      "dirty_name": "ADOBE  ST (04-7-3650)",
+      "expected_brand": "Adobe"
+    },
+    {
+      "dirty_name": "ADOBE STOCK~~ADE.CM~F 372",
+      "expected_brand": "Adobe"
+    },
+    {
+      "dirty_name": "ADOBE  ACROPRO SUBS (044-207-3650)",
+      "expected_brand": "Adobe"
+    },
+    {
+      "dirty_name": "ADOBE P OUD TRI   AE.LY/BL IRL",
+      "expected_brand": "Adobe"
+    },
+    {
+      "dirty_name": "IBERIA 07555930303",
+      "expected_brand": "Iberia"
+    },
+    {
+      "dirty_name": "IBERIA   55677 ul.Martz Vilgas 49 Md",
+      "expected_brand": "Iberia"
+    },
+    {
+      "dirty_name": "IBERIA ERSJPJO6035 ul.Marz Villas 9 Mid 027 ESP",
+      "expected_brand": "Iberia"
+    },
+    {
+      "dirty_name": "IBERIA   0EREQRE3899 (MADRID)",
+      "expected_brand": "Iberia"
+    },
+    {
+      "dirty_name": "INDIGO 7730391 PACVIE AUX 1 E LON MX 77100 FRA",
+      "expected_brand": "Indigo"
+    },
+    {
+      "dirty_name": "INDIGO LN (LYON)",
+      "expected_brand": "Indigo"
+    },
+    {
+      "dirty_name": "INDIGO (MANTJOL)",
+      "expected_brand": "Indigo"
+    },
+    {
+      "dirty_name": "LEROY MERLIN (ALCAS)",
+      "expected_brand": "Leroy Merlin"
+    },
+    {
+      "dirty_name": "ADEO*LEROY MER ARC DEERES DA PE HE CH 35135 FRA",
+      "expected_brand": "Leroy Merlin"
+    },
+    {
+      "dirty_name": "ADEO*LEROY N MA PISE FR",
+      "expected_brand": "Leroy Merlin"
+    },
+    {
+      "dirty_name": "ADEO*LERY MIN ENE CIL D POER OY 920 FRA",
+      "expected_brand": "Leroy Merlin"
+    },
+    {
+      "dirty_name": "ALDI 214 (GRA)",
+      "expected_brand": "Aldi"
+    },
+    {
+      "dirty_name": "ALDI MARCHE 047900E CRODE CHTE 630 FRA",
+      "expected_brand": "Aldi"
+    },
+    {
+      "dirty_name": "ALDI STORES LTDFROODME2 4WR",
+      "expected_brand": "Aldi"
+    },
+    {
+      "dirty_name": "ALDI DUBLIN",
+      "expected_brand": "Aldi"
+    },
+    {
+      "dirty_name": "ALDI TER COLE R    GBR",
+      "expected_brand": "Aldi"
+    },
+    {
+      "dirty_name": "AERLING   YSH (DUBLIN)",
+      "expected_brand": "Aer Lingus"
+    },
+    {
+      "dirty_name": "AERLING  (DUBLIN)",
+      "expected_brand": "Aer Lingus"
+    },
+    {
+      "dirty_name": "AERLING   FNJ RIB",
+      "expected_brand": "Aer Lingus"
+    },
+    {
+      "dirty_name": "AERLING   HSB DUR (DUBLIN)",
+      "expected_brand": "Aer Lingus"
+    },
+    {
+      "dirty_name": "AER LING",
+      "expected_brand": "Aer Lingus"
+    },
+    {
+      "dirty_name": "AERLING   HIB ALT (DUB)",
+      "expected_brand": "Aer Lingus"
+    },
+    {
+      "dirty_name": "AER LINGUVVTS NUE BUILDIN  IRL",
+      "expected_brand": "Aer Lingus"
+    },
+    {
+      "dirty_name": "MONOP          930 (TSE)",
+      "expected_brand": "Monop'"
+    },
+    {
+      "dirty_name": "MONOPRIX   882 (NEUILLY SUR S)",
+      "expected_brand": "Monoprix"
+    },
+    {
+      "dirty_name": "MONOPRIX 8 RUE VOLTAIRE PARIS",
+      "expected_brand": "Monoprix"
+    },
+    {
+      "dirty_name": "MONOPRIX (LYON)",
+      "expected_brand": "Monoprix"
+    },
+    {
+      "dirty_name": "MONOPRIX 63 AVENUE DE CHOI 13 FRA",
+      "expected_brand": "Monoprix"
+    },
+    {
+      "dirty_name": "FRANPRIX 6308 RES SUR FR",
+      "expected_brand": "Franprix"
+    },
+    {
+      "dirty_name": "FRANPRIX 5303 (PARIS)",
+      "expected_brand": "Franprix"
+    },
+    {
+      "dirty_name": "FRANPRIX 5019",
+      "expected_brand": "Franprix"
+    },
+    {
+      "dirty_name": "FRANPRIX 5656 21 RE COMT FUR LY 63 FR",
+      "expected_brand": "Franprix"
+    },
+    {
+      "dirty_name": "FRANPRIX RUE PIRE BROE IVY SR S 94200 FRA",
+      "expected_brand": "Franprix"
+    },
+    {
+      "dirty_name": "NORWEGIAN328073975 (FOU)",
+      "expected_brand": "Norwegian"
+    },
+    {
+      "dirty_name": "WORDPRESS 581WAjoipo (8772733049)",
+      "expected_brand": "Wordpress"
+    },
+    {
+      "dirty_name": "WORDPRESS UAGKTPEZ6J~~SAN FRANCISCO~94999000 CA 840",
+      "expected_brand": "Wordpress"
+    },
+    {
+      "dirty_name": "WORDPRESS KUTLYRYJUYFU",
+      "expected_brand": "Wordpress"
+    },
+    {
+      "dirty_name": "WORDPRESS Q3JFYRUFJ (DUBLIN)",
+      "expected_brand": "Wordpress"
+    },
+    {
+      "dirty_name": "COOPERATIVE L    LEEDS         GBR: Reverse Authorisation for Auth",
+      "expected_brand": "Coop"
+    },
+    {
+      "dirty_name": "Coop-192 Laus. C. A Re S-Launt2ne 1003 CHE",
+      "expected_brand": "Coop"
+    },
+    {
+      "dirty_name": "Coop-093 Gstad Hauptasse Gstad 3780 CHE",
+      "expected_brand": "Coop"
+    },
+    {
+      "dirty_name": "IKEA BA BAD ES",
+      "expected_brand": "IKEA"
+    },
+    {
+      "dirty_name": "IKEA PARIS 1  FRA",
+      "expected_brand": "IKEA"
+    },
+    {
+      "dirty_name": "IKEA.COM 330LPL6 (84344532)",
+      "expected_brand": "IKEA"
+    },
+    {
+      "dirty_name": "IKEA Dt. NL WallO (Walld)",
+      "expected_brand": "IKEA"
+    },
+    {
+      "dirty_name": "IKEA LIEGE-RE LE 7 LIE (HO U342 BL",
+      "expected_brand": "IKEA"
+    },
+    {
+      "dirty_name": "MARKS & SPENCER PL S5-3 BHER HULLHU17 0AA",
+      "expected_brand": "Marks & Spencer"
+    },
+    {
+      "dirty_name": "MARKS&SPENCER PLC",
+      "expected_brand": "Marks & Spencer"
+    },
+    {
+      "dirty_name": "MARKS & SPENCER-MTR ADMTR STA7HONG KON",
+      "expected_brand": "Marks & Spencer"
+    },
+    {
+      "dirty_name": "MARKS&SPENCER PLC (FINRY AVE)",
+      "expected_brand": "Marks & Spencer"
+    },
+    {
+      "dirty_name": "MARKS&SPENCER PL58 OXFD STETOXFD STRW1C 1AP   GBRGBR",
+      "expected_brand": "Marks & Spencer"
+    },
+    {
+      "dirty_name": "MARKS&SPENCER PL SA LEDS GBR",
+      "expected_brand": "Marks & Spencer"
+    },
+    {
+      "dirty_name": "MARKS & SPENCER SACAT 59 KIND HI STRET LON E 2S BR",
+      "expected_brand": "Marks & Spencer"
+    },
+    {
+      "dirty_name": "1449880.2019.75 (WIRMACHEDR)",
+      "expected_brand": "WIRmachenDRUCK"
+    },
+    {
+      "dirty_name": "www.wir-machen-druck.d (90809)",
+      "expected_brand": "WIRmachenDRUCK"
+    },
+    {
+      "dirty_name": "404451.2019.37 (X)",
+      "expected_brand": "WIRmachenDRUCK"
+    },
+    {
+      "dirty_name": "www.wir-machen-druck.d",
+      "expected_brand": "WIRmachenDRUCK"
+    },
+    {
+      "dirty_name": "99 (WMD GMBH)",
+      "expected_brand": "WIRmachenDRUCK"
+    },
+    {
+      "dirty_name": "2392999.2021.2 WIRMACHENDR X 000 DEU",
+      "expected_brand": "WIRmachenDRUCK"
+    },
+    {
+      "dirty_name": "~WMD GMBH~7152 2       276",
+      "expected_brand": "WIRmachenDRUCK"
+    },
+    {
+      "dirty_name": "Cardtron PETROLEUM -BLAGBRGBR",
+      "expected_brand": "Cardtronics"
+    },
+    {
+      "dirty_name": "Cardtronics UK MART",
+      "expected_brand": "Cardtronics"
+    },
+    {
+      "dirty_name": "DOMINOS PIZA (PARVIEI)",
+      "expected_brand": "Domino's Pizza"
+    },
+    {
+      "dirty_name": "DOMINO'S 3404 (607-343-IIII)",
+      "expected_brand": "Domino's Pizza"
+    },
+    {
+      "dirty_name": "Dominos Strasborg 8 avue de Colr Strag 67100 FRA",
+      "expected_brand": "Domino's Pizza"
+    },
+    {
+      "dirty_name": "3430 Dominos Pizz (58-24-0)",
+      "expected_brand": "Domino's Pizza"
+    },
+    {
+      "dirty_name": "DOMINOS PIZZA OPO5041 7 IE E OLE E BAN PLUT 56400 FRA",
+      "expected_brand": "Domino's Pizza"
+    },
+    {
+      "dirty_name": "Dominos ASNIS SR 1 rue de Cols AUR 92600 FRA",
+      "expected_brand": "Domino's Pizza"
+    },
+    {
+      "dirty_name": "DOMINOS PIZZA HUELVA AV. AV. PALO RAD 3 ESP",
+      "expected_brand": "Domino's Pizza"
+    },
+    {
+      "dirty_name": "DOMINO'S PIZZA 41 RUE RI MAL SAST 69800 FRA",
+      "expected_brand": "Domino's Pizza"
+    },
+    {
+      "dirty_name": "DOMINOS PIZ (MILN KES)",
+      "expected_brand": "Domino's Pizza"
+    },
+    {
+      "dirty_name": "GREGGS PLC UN BURL RD IPS IP2 8AL  GBR",
+      "expected_brand": "Greggs"
+    },
+    {
+      "dirty_name": "GREGGS PLC8 EAST STREETSOUJOIOPKITONSO14 3HE",
+      "expected_brand": "Greggs"
+    },
+    {
+      "dirty_name": "MGP*StaffMe 1110385343 67 AV DE FONTAINEBHIOH L-1125 LUX",
+      "expected_brand": "StaffMe"
+    },
+    {
+      "dirty_name": "MGP*StaffMe 2850390993 (L-1125 LUXEMB)",
+      "expected_brand": "StaffMe"
+    },
+    {
+      "dirty_name": "MGP*Vinted 3930HPIOJPU",
+      "expected_brand": "Vinted"
+    },
+    {
+      "dirty_name": "MGP*Vinted 1911 I LML FR",
+      "expected_brand": "Vinted"
+    },
+    {
+      "dirty_name": "MGP*Vinted 53N(L - 2449 LUXE)",
+      "expected_brand": "Vinted"
+    },
+    {
+      "dirty_name": "Leetchi ExS 0395",
+      "expected_brand": "Leetchi"
+    },
+    {
+      "dirty_name": "MGP*Leetchi 22 I LL FR",
+      "expected_brand": "Leetchi"
+    },
+    {
+      "dirty_name": "COSTA COFF (SOTPON)",
+      "expected_brand": "Costa Coffee"
+    },
+    {
+      "dirty_name": "COSTA COFFEE 251 - 253 SE SIRS RD LON N4 2DD GBR",
+      "expected_brand": "Costa Coffee"
+    },
+    {
+      "dirty_name": "COSTA COFFEE  26 IGH HOLB   LONDON    GBR",
+      "expected_brand": "Costa Coffee"
+    },
+    {
+      "dirty_name": "W M MORRINS PC   TRNTON CV GR",
+      "expected_brand": "Morrisons"
+    },
+    {
+      "dirty_name": "WM MORRNS STRE BELD CE CHESTERLD S4UL GBR",
+      "expected_brand": "Morrisons"
+    },
+    {
+      "dirty_name": "MORRISO BOLN ATSK",
+      "expected_brand": "Morrisons"
+    },
+    {
+      "dirty_name": "REWE Duesself Uen (Duessd)",
+      "expected_brand": "REWE"
+    },
+    {
+      "dirty_name": "REWE Marcel Claus oHG BEYERSTRAßE 1 09113 DEU",
+      "expected_brand": "REWE"
+    },
+    {
+      "dirty_name": "REWE Korol KLINGERSTRAßE 4B",
+      "expected_brand": "REWE"
+    },
+    {
+      "dirty_name": "REWE RegiH S MÜNSERPLATZ 16 Ulm 89073 DEU",
+      "expected_brand": "REWE"
+    },
+    {
+      "dirty_name": "Action 4253 Rue de Fonbad FRA",
+      "expected_brand": "Action"
+    },
+    {
+      "dirty_name": "Action 9 Braine-L'Alle BE",
+      "expected_brand": "Action"
+    },
+    {
+      "dirty_name": "APPLE.COM/BILL  ITUNES.COM  IEuiy",
+      "expected_brand": "Apple"
+    },
+    {
+      "dirty_name": "APPLE STORE R425 1du Dae S(PA) 71 fRA",
+      "expected_brand": "Apple"
+    },
+    {
+      "dirty_name": "APPLE STORE  #Rkk1 (NOI)",
+      "expected_brand": "Apple"
+    },
+    {
+      "dirty_name": "APPLE STORE RTYRD (LY)",
+      "expected_brand": "Apple"
+    },
+    {
+      "dirty_name": "PAYPAL *APPLE.COM/BILLKPK Holly",
+      "expected_brand": "Apple"
+    },
+    {
+      "dirty_name": "APPLE.COM/UK",
+      "expected_brand": "Apple"
+    },
+    {
+      "dirty_name": "APPLE.COM/BILLHollyhill Industrial Estate080010POLMPUNKNOWN   IRLIRL",
+      "expected_brand": "Apple"
+    },
+    {
+      "dirty_name": "APPLE ONLINE SOE DKK (70-10-70-72)",
+      "expected_brand": "Apple"
+    },
+    {
+      "dirty_name": "NOVOTEL MARSEILLE FR",
+      "expected_brand": "Novotel"
+    },
+    {
+      "dirty_name": "NOVOTEL 2 RUE LYON",
+      "expected_brand": "Novotel"
+    },
+    {
+      "dirty_name": "NOVOTEL (NTES)",
+      "expected_brand": "Novotel"
+    },
+    {
+      "dirty_name": "NOVOTEL BANGKA-HO KO.VILLA BANGKAJO IDN",
+      "expected_brand": "Novotel"
+    },
+    {
+      "dirty_name": "NOVOTEL (ENEUIL D)",
+      "expected_brand": "Novotel"
+    },
+    {
+      "dirty_name": "Novotel Singa Clar (SINGE)",
+      "expected_brand": "Novotel"
+    },
+    {
+      "dirty_name": "NOVOTEL AM TIESDFXGSTEN (BERLIN)",
+      "expected_brand": "Novotel"
+    },
+    {
+      "dirty_name": "SPAR - INT  GBR",
+      "expected_brand": "SPAR"
+    },
+    {
+      "dirty_name": "SPAR BEHO",
+      "expected_brand": "SPAR"
+    },
+    {
+      "dirty_name": "SPAR SHONILLS",
+      "expected_brand": "SPAR"
+    },
+    {
+      "dirty_name": "LYFT   *RIDE MON 8AM",
+      "expected_brand": "Lyft"
+    },
+    {
+      "dirty_name": "LYFT   *RIDE FRI 1040000 CA 840",
+      "expected_brand": "Lyft"
+    },
+    {
+      "dirty_name": "LYFT   *RIDE THU 4AM (855-8EE-EF53)",
+      "expected_brand": "Lyft"
+    },
+    {
+      "dirty_name": "BOOTS A GRET PRKWICHSE7 7SR   GBRGBR",
+      "expected_brand": "Boots"
+    },
+    {
+      "dirty_name": "DECAT 2531 7 RUE",
+      "expected_brand": "Decathlon"
+    },
+    {
+      "dirty_name": "DECATHLON EVOR (EVO)",
+      "expected_brand": "Decathlon"
+    },
+    {
+      "dirty_name": "DECATHLON AEPL 12",
+      "expected_brand": "Decathlon"
+    },
+    {
+      "dirty_name": "PREMIER INN RUE VOLTAIRE FR",
+      "expected_brand": "Premier Inn"
+    },
+    {
+      "dirty_name": "PREMIER INN44SING INARK GLAERS GBR",
+      "expected_brand": "Premier Inn"
+    },
+    {
+      "dirty_name": "PREMIER INN (MANCHESTER)",
+      "expected_brand": "Premier Inn"
+    },
+    {
+      "dirty_name": "COURSRA7YO60QHJX3AHZA 1975 W EL CAMICA USA",
+      "expected_brand": "Coursera"
+    },
+    {
+      "dirty_name": "COURSRA3BENI8B9PEORNY (6509639884)",
+      "expected_brand": "Coursera"
+    },
+    {
+      "dirty_name": "CAMPANILE SC AIX EN PROVENCE 13090 FRA",
+      "expected_brand": "Campanile"
+    },
+    {
+      "dirty_name": "CAMPANILE (LE BOURGET)",
+      "expected_brand": "Campanile"
+    },
+    {
+      "dirty_name": "HILTON ISTAN MAS ( ISTANBUL)",
+      "expected_brand": "Hilton"
+    },
+    {
+      "dirty_name": "Hilton",
+      "expected_brand": "Hilton"
+    },
+    {
+      "dirty_name": "HILTON AMELDSF",
+      "expected_brand": "Hilton"
+    },
+    {
+      "dirty_name": "UPS DE 1Z059VE5042393",
+      "expected_brand": "UPS"
+    },
+    {
+      "dirty_name": "UPS DE 600000434PEMZL (Nss)",
+      "expected_brand": "UPS"
+    },
+    {
+      "dirty_name": "COINBASE NCWQQ85PA107 CHEAPSIDPEMZLAPSIDEEC2V 6DN  GBRGBR",
+      "expected_brand": "Coinbase"
+    },
+    {
+      "dirty_name": "COINBASE L4EM5ADM8  FDGF GBR",
+      "expected_brand": "Coinbase"
+    },
+    {
+      "dirty_name": "COINBASE M5FDGDF",
+      "expected_brand": "Coinbase"
+    },
+    {
+      "dirty_name": "MONGODBCLOUD",
+      "expected_brand": "MongoDB Cloud"
+    },
+    {
+      "dirty_name": "MONGODBCLOUD DIDASK... 21 RUE VOLTAIRE",
+      "expected_brand": "MongoDB Cloud"
+    },
+    {
+      "dirty_name": "HOLIDAY INN (CHARLESTON)",
+      "expected_brand": "Holiday Inn"
+    },
+    {
+      "dirty_name": "WAYFAIR #29398SDFSD (INTERNET)",
+      "expected_brand": "Wayfair"
+    },
+    {
+      "dirty_name": "WAYFAIR #44 ONLINE IE",
+      "expected_brand": "Wayfair"
+    },
+    {
+      "dirty_name": "Q8 121305 THUIN~~GOZEE",
+      "expected_brand": "Q8"
+    },
+    {
+      "dirty_name": "OKQ8 ()",
+      "expected_brand": "Q8"
+    },
+    {
+      "dirty_name": "Q8 108050 UCCLE OPT (BR)",
+      "expected_brand": "Q8"
+    },
+    {
+      "dirty_name": "OKQ8 JBROVÄGEN 10 JÖNKÖPING 55339 SWE",
+      "expected_brand": "Q8"
+    },
+    {
+      "dirty_name": "Europcar PAARIS",
+      "expected_brand": "Europcar"
+    },
+    {
+      "dirty_name": "Europcar (OFR)",
+      "expected_brand": "Europcar"
+    },
+    {
+      "dirty_name": "EUROPCAR (TST)",
+      "expected_brand": "Europcar"
+    },
+    {
+      "dirty_name": "SOOTHE COM 7 18 (LA)",
+      "expected_brand": "Soothe.com"
+    },
+    {
+      "dirty_name": "SOOTHE COM EXTENSION~~LA",
+      "expected_brand": "Soothe.com"
+    },
+    {
+      "dirty_name": "EDEKA NIEHOFF 1797 Grosen-Str. 66",
+      "expected_brand": "EDEKA"
+    },
+    {
+      "dirty_name": "LOYD HALELL ROAD",
+      "expected_brand": "Lloyds Bank"
+    },
+    {
+      "dirty_name": "LOYD 7 MANCHESTER  BURE GBR",
+      "expected_brand": "Lloyds Bank"
+    },
+    {
+      "dirty_name": "TAXIFY 23040628_1154 (Tallinn)",
+      "expected_brand": "Taxify"
+    },
+    {
+      "dirty_name": "OMV 57RP/ (Neustift Kam)",
+      "expected_brand": "OMV"
+    },
+    {
+      "dirty_name": "OMV 4724 Salrg AT",
+      "expected_brand": "OMV"
+    },
+    {
+      "dirty_name": "WIZZ AIR000FPDP1RJ KR UTCA 2/A",
+      "expected_brand": "Wizzair"
+    },
+    {
+      "dirty_name": "Wizz Air Hu C7MEJ",
+      "expected_brand": "Wizzair"
+    },
+    {
+      "dirty_name": "BARCLAYS   A BE    GBR",
+      "expected_brand": "Barclays"
+    },
+    {
+      "dirty_name": "BARCLAYS (TRWBGE)",
+      "expected_brand": "Barclays"
+    },
+    {
+      "dirty_name": "BARCLAYS  HAM   GBR",
+      "expected_brand": "Barclays"
+    },
+    {
+      "dirty_name": "LUL TICKET MACHIN LAUIG119LS",
+      "expected_brand": "London Underground"
+    },
+    {
+      "dirty_name": "CardtronicsUKWAITRRDFG",
+      "expected_brand": "Cardtronics"
+    },
+    {
+      "dirty_name": "BP SANDR LEICESTER  GBR",
+      "expected_brand": "BP"
+    },
+    {
+      "dirty_name": "BP SWAN FRANCE",
+      "expected_brand": "BP"
+    },
+    {
+      "dirty_name": "BP KELLYS COE LONDON  GBR",
+      "expected_brand": "BP"
+    },
+    {
+      "dirty_name": "KLM         0748230497 (Amsterdam)",
+      "expected_brand": "KLM"
+    },
+    {
+      "dirty_name": "KLM 074242JFOF7114 (Fiumicino)",
+      "expected_brand": "KLM"
+    },
+    {
+      "dirty_name": "KLM Via Dell'Aeroporto di Fiumicin Fiumicino 00050 ITA",
+      "expected_brand": "KLM"
+    },
+    {
+      "dirty_name": "La Banque Postal",
+      "expected_brand": "La Banque Postale"
+    },
+    {
+      "dirty_name": "BP KELLYS COE LONDON  GBR",
+      "expected_brand": "BP"
+    },
+    {
+      "dirty_name": "KLM         0748230497 (Amsterdam)",
+      "expected_brand": "KLM"
+    },
+    {
+      "dirty_name": "KLM 074242JFOF7114 (Fiumicino)",
+      "expected_brand": "KLM"
+    },
+    {
+      "dirty_name": "KLM Via Dell'Aeroporto di Fiumicin Fiumicino 00050 ITA",
+      "expected_brand": "KLM"
+    },
+    {
+      "dirty_name": "La Banque Postal",
+      "expected_brand": "La Banque Postale"
+    },
+    {
+      "dirty_name": "La Banque Postal PARIS",
+      "expected_brand": "La Banque Postale"
+    },
+    {
+      "dirty_name": "PICARD SAA 282 (Marseille 9e)",
+      "expected_brand": "Picard"
+    },
+    {
+      "dirty_name": "ZARA FRANCE (PAR)",
+      "expected_brand": "Zara"
+    },
+    {
+      "dirty_name": "PAYPAL *ZARA Marseille",
+      "expected_brand": "Zara"
+    },
+    {
+      "dirty_name": "ZARA MOY TRAN           GB",
+      "expected_brand": "Zara"
+    },
+    {
+      "dirty_name": "DHL EXPRESS(UK)LTD DHL BE SBB GBR",
+      "expected_brand": "DHL"
+    },
+    {
+      "dirty_name": "DHL EXPRESS FR INC (8007223581),",
+      "expected_brand": "DHL"
+    },
+    {
+      "dirty_name": "DHL NATIONAL NV (),",
+      "expected_brand": "DHL"
+    },
+    {
+      "dirty_name": "Audible",
+      "expected_brand": "Audible"
+    },
+    {
+      "dirty_name": "Audible Gm*9LR4 Sch 6 audib/rg",
+      "expected_brand": "Audible"
+    },
+    {
+      "dirty_name": "Audible Ltd Paris",
+      "expected_brand": "Audible"
+    },
+    {
+      "dirty_name": "GITHUB.COM      CA 11333",
+      "expected_brand": "GitHub"
+    },
+    {
+      "dirty_name": "GITHUB.COM  *7MPZP (4333396673)",
+      "expected_brand": "GitHub"
+    },
+    {
+      "dirty_name": "GITHUB.COM  SPEAPZ (4154203973)",
+      "expected_brand": "GitHub"
+    },
+    {
+      "dirty_name": "NANDOS LEWISHAMER",
+      "expected_brand": "Nando's"
+    },
+    {
+      "dirty_name": "NANDOS3 WD HILNOTNNN1 2DA   GR",
+      "expected_brand": "Nando's"
+    },
+    {
+      "dirty_name": "NANDOS GREE ILLA GREEN    GBR",
+      "expected_brand": "Nando's"
+    },
+    {
+      "dirty_name": "NANDOS SHEPRDS B-DGEPHER 7JA",
+      "expected_brand": "Nando's"
+    },
+    {
+      "dirty_name": "LA SOCIETE GERALE~ 2190  ",
+      "expected_brand": "Société Générale"
+    },
+    {
+      "dirty_name": "SOCIETE GENERALE (Paris)",
+      "expected_brand": "Société Générale"
+    },
+    {
+      "dirty_name": "SOCIETE GENERALE MARSEILLE ()",
+      "expected_brand": "Société Générale"
+    },
+    {
+      "dirty_name": "LA SOCIETE GENERALE CAP D'AGDE F",
+      "expected_brand": "Société Générale"
+    },
+    {
+      "dirty_name": "CardtronicsUKICELAND BRIOPRT",
+      "expected_brand": "Iceland"
+    },
+    {
+      "dirty_name": "ICELAND        PALCE GBR",
+      "expected_brand": "Iceland"
+    },
+    {
+      "dirty_name": "ICELAND                KI  GBR",
+      "expected_brand": "Iceland"
+    },
+    {
+      "dirty_name": "WOOCOMM 5102032270~~SAN00 CA 840",
+      "expected_brand": "WooCommerce"
+    },
+    {
+      "dirty_name": "WOOCOMM  5100000902",
+      "expected_brand": "WooCommerce"
+    },
+    {
+      "dirty_name": "WOOCOMM 510607",
+      "expected_brand": "WooCommerce"
+    },
+    {
+      "dirty_name": "NESPRESSO FRANC 5 FRA",
+      "expected_brand": "Nespresso"
+    },
+    {
+      "dirty_name": "NESPRESSO ECOMM (GAT)",
+      "expected_brand": "Nespresso"
+    },
+    {
+      "dirty_name": "NESPRESSO (BRE)",
+      "expected_brand": "Nespresso"
+    },
+    {
+      "dirty_name": "LIM*ADD BALANCE (8820363345)",
+      "expected_brand": "Lime"
+    },
+    {
+      "dirty_name": "LIM*KAUTI4733 DE,",
+      "expected_brand": "Lime"
+    },
+    {
+      "dirty_name": "LIME S.A.R.L. 14 Rue Vaucouleurs FRA",
+      "expected_brand": "Lime"
+    },
+    {
+      "dirty_name": "BEST WESTERN GL ()",
+      "expected_brand": "Best Western"
+    },
+    {
+      "dirty_name": "BEST WESTERN PAL  (INVE)",
+      "expected_brand": "Best Western"
+    },
+    {
+      "dirty_name": "BEST WESTERN PARIS 12",
+      "expected_brand": "Best Western"
+    },
+    {
+      "dirty_name": "CHEERZ* CZ4608APZ28 (PARIS)",
+      "expected_brand": "Cheerz"
+    },
+    {
+      "dirty_name": "CHEERZ* CZ4065293166 14 RUE DE VAUCOULEURS FRA",
+      "expected_brand": "Cheerz"
+    },
+    {
+      "dirty_name": "CHEERZ* CZ (PARIS 08)",
+      "expected_brand": "Cheerz"
+    },
+    {
+      "dirty_name": "RADISSON (DUBAI)",
+      "expected_brand": "Radisson Blu"
+    },
+    {
+      "dirty_name": "RADISSON ROYAL RECEPTI (PARIS)",
+      "expected_brand": "Radisson Blu"
+    },
+    {
+      "dirty_name": "RADISSON BLU (BUDA)",
+      "expected_brand": "Radisson Blu"
+    },
+    {
+      "dirty_name": "H&M23 (MOIS)",
+      "expected_brand": "H&M"
+    },
+    {
+      "dirty_name": "H&M BERLIN 1DE0713 AA (PARIS)",
+      "expected_brand": "H&M"
+    },
+    {
+      "dirty_name": "H&M73~~PARIS ",
+      "expected_brand": "H&M"
+    },
+    {
+      "dirty_name": "HENNES AND MAURITZ1,KAVT",
+      "expected_brand": "H&M"
+    }
+]
